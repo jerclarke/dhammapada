@@ -18,9 +18,9 @@ In addition to the gendered-language changes, I may also incorporate some modern
 
 In the long run I hope to re-record my version as a Librivox audiobook to compete with the current LibriVox versions of the Dhammapada ([Version 1](https://librivox.org/the-dhammapada-translated-by-f-max-mueller/), [Version 2](https://librivox.org/the-dhammapada-version-2-by-unknown/)) , which have many technical and stylistic issues in addition to the problematic male-centered pronoun usage.
 
-Specific titles for this retranslation that I might use are **"Social Justive Dhammapada"**, **"Inclusive Dhammapada"** or **"Dhammapada 2018"**. All should give a sense of what I'm going for. Ultimately though, this is simply the Dhammapada, revised to use simple lanaguge that applies to a modern audience.  
+Specific titles for this retranslation that I might use are **"Social Justice Dhammapada"**, **"Inclusive Dhammapada"** or **"Dhammapada 2018"**. All should give a sense of what I'm going for. Ultimately though, this is simply the Dhammapada, revised to use simple lanaguge that applies to a modern audience.  
 
-## My re-translation has no direct relationhip with the Gil Fronstal version
+## My re-translation has no direct relationship with the Gil Fronstal version
 
 For a commercially-available Dhammapada with similar goals see the [2005 retranslation by Gil Fronsdal](https://www.publishersweekly.com/978-1-59030-211-8), which I have not read and do not plan to read, but uses gender neutral language also. 
 
