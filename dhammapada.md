@@ -1,55 +1,47 @@
-The Dhammapada - A modern, inclusive, gender neutral interpretation of the seminal Buddhist book of sayings, assembled by Jer Clarke.
+**The Dhammapada - A modern, inclusive, gender neutral interpretation of the seminal Buddhist book of sayings, assembled by Jer Clarke.**
 
 This work has been modified from the translation edited by F. Max Müller which was published in 1900 as part of "The Sacred Books of the East" Volume X, Part 1, and later produced as a transcribed ebook for Project Gutenberg by Tom Weiss in 2008.
 
-This document should be considered public domain as are the source works. You are free to use it for any purpose. It is officially licensed as Creative Commons Public Domain Mark 1.
+Learn more about the history and meaning of this text on the [Dhammapada Wikipedia Article](https://en.wikipedia.org/wiki/Dhammapada).
 
-https://creativecommons.org/publicdomain/mark/1.0/
+This document should be considered public domain as are the source works. You are free to use it for any purpose. It is officially licensed as [Creative Commons Public Domain Mark 1](https://creativecommons.org/publicdomain/mark/1.0/).
 
 Attribution of this version to Jer Clarke and http://jerclarke.org is appreciated but in no way required.
 
 ---
 
-THE DHAMMAPADA
+# The Dhammapada
 
-Contents
+**Contents**
 
-     Chapter 1: The Twin Verses
-     Chapter 2: On Earnestness
-     Chapter 3: Thought
-     Chapter 4: Flowers
-     Chapter 5: The Fool
-     Chapter 6: The Wise Man (Pandita)
-     Chapter 7: The Venerable (Arhat)
-     Chapter 8: The Thousands
-     Chapter 9: Evil
-     Chapter 10: Punishment
-     Chapter 11: Old Age
-     Chapter 12: Self
-     Chapter 13: The World
-     Chapter 14: The Buddha (the Awakened)
-     Chapter 15: Happiness
-     Chapter 16: Pleasure
-     Chapter 17: Anger
-     Chapter 18: Impurity
-     Chapter 19: The Just
-     Chapter 20: The Way
-     Chapter 21: Miscellaneous
-     Chapter 22: The Downward Course
-     Chapter 23: The Elephant
-     Chapter 24: Thirst
-     Chapter 25: The Bhikshu (Mendicant)
-     Chapter 26 The Brahmana (Arhat)
+1. The Twin Verses
+2. On Earnestness
+3. Thought
+4. Flowers
+5. The Fool
+6. The Wise Man (Pandita)
+7. The Venerable (Arhat)
+8. The Thousands
+9. Evil
+10. Punishment
+11. Old Age
+12. Self
+13. The World
+14. The Buddha (the Awakened)
+15. Happiness
+16. Pleasure
+17. Anger
+18. Impurity
+19. The Just
+20. The Way
+21. Miscellaneous
+22. The Downward Course
+23. The Elephant
+24. Thirst
+25. The Bhikshu (Mendicant)
+26. The Brahmana (Arhat)
 
-
-
-
-DHAMMAPADA
-
-
-
-
-Chapter I. The Twin-Verses
+## 1. The Twin-Verses
 
 1. All that we are is the result of what we have thought: it is founded
 on our thoughts, it is made up of our thoughts. If a man speaks or acts
@@ -127,10 +119,7 @@ like a cowherd counting the cows of others.
 possesses true knowledge and serenity of mind, he, caring for nothing in
 this world or that to come, has indeed a share in the priesthood.
 
-
-
-
-Chapter II. On Earnestness
+## 2. On Earnestness
 
 21. Earnestness is the path of immortality (Nirvana), thoughtlessness
 the path of death. Those who are in earnest do not die, those who are
@@ -175,10 +164,7 @@ small or large.
 fear on thoughtlessness, cannot fall away (from his perfect state)--he
 is close upon Nirvana.
 
-
-
-
-Chapter III. Thought
+## 3. Thought
 
 33. As a fletcher makes straight his arrow, a wise man makes straight
 his trembling and unsteady thought, which is difficult to guard,
@@ -220,8 +206,7 @@ wrongly-directed mind will do us greater mischief.
 43. Not a mother, not a father will do so much, nor any other relative;
 a well-directed mind will do us greater service.
 
-
-Chapter IV. Flowers
+## 4. Flowers
 
 44. Who shall overcome this earth, and the world of Yama (the lord of
 the departed), and the world of the gods? Who shall find out the plainly
@@ -276,10 +261,7 @@ grow full of sweet perfume and delight, thus the disciple of the truly
 enlightened Buddha shines forth by his knowledge among those who are
 like rubbish, among the people that walk in darkness.
 
-
-
-
-Chapter V. The Fool
+## 5. The Fool
 
 60. Long is the night to him who is awake; long is a mile to him who is
 tired; long is life to the foolish who do not know the true law.
@@ -337,10 +319,7 @@ to Nirvana;" if the Bhikshu, the disciple of Buddha, has learnt this,
 he will not yearn for honour, he will strive after separation from the
 world.
 
-
-
-
-Chapter VI. The Wise Man (Pandita)
+## 6. The Wise Man (Pandita)
 
 76. If you see an intelligent man who tells you where true treasures are
 to be found, who shows what is to be avoided, and administers reproofs,
@@ -394,10 +373,7 @@ knowledge, who without clinging to anything, rejoice in freedom from
 attachment, whose appetites have been conquered, and who are full of
 light, are free (even) in this world.
 
-
-
-
-Chapter VII. The Venerable (Arhat).
+## 7. The Venerable (Arhat).
 
 90. There is no suffering for him who has finished his journey, and
 abandoned grief, who has freed himself on all sides, and thrown off all
@@ -436,10 +412,7 @@ wherever venerable persons (Arhanta) dwell, that place is delightful.
 99. Forests are delightful; where the world finds no delight, there the
 passionless will find delight, for they look not for pleasures.
 
-
-
-
-Chapter VIII. The Thousands
+## 8. The Thousands
 
 100. Even though a speech be a thousand (of words), but made up of
 senseless words, one word of sense is better, which if a man hears, he
@@ -496,10 +469,7 @@ life of one day is better if a man sees the immortal place.
 115. And he who lives a hundred years, not seeing the highest law, a
 life of one day is better if a man sees the highest law.
 
-
-
-
-Chapter IX. Evil
+## 9. Evil
 
 116. If a man would hasten towards the good, he should keep his thought
 away from evil; if a man does what is good slothfully, his mind delights
@@ -548,10 +518,7 @@ Nirvana.
 the clefts of the mountains, is there known a spot in the whole world
 where death could not overcome (the mortal).
 
-
-
-
-Chapter X. Punishment
+## 10. Punishment
 
 129. All men tremble at punishment, all men fear death; remember that
 you are like unto them, and do not kill, nor cause slaughter.
@@ -610,10 +577,7 @@ perfect in knowledge and in behaviour, and never forgetful.
 145. Well-makers lead the water (wherever they like); fletchers bend the
 arrow; carpenters bend a log of wood; good people fashion themselves.
 
-
-
-
-Chapter XI. Old Age
+## 11. Old Age
 
 146. How is there laughter, how is there joy, as this world is always
 burning? Why do you not seek a light, ye who are surrounded by darkness?
@@ -652,10 +616,7 @@ treasure in their youth, perish like old herons in a lake without fish.
 156. Men who have not observed proper discipline, and have not gained
 treasure in their youth, lie, like broken bows, sighing after the past.
 
-
-
-
-Chapter XII. Self
+## 12. Self
 
 157. If a man hold himself dear, let him watch himself carefully; during
 one at least out of the three watches a wise man should be watchful.
@@ -692,10 +653,7 @@ belong to oneself, no one can purify another.
 great; let a man, after he has discerned his own duty, be always
 attentive to his duty.
 
-
-
-
-Chapter XIII. The World
+## 13. The World
 
 167. Do not follow the evil law! Do not live on in thoughtlessness! Do
 not follow false doctrine! Be not a friend of the world.
@@ -736,10 +694,7 @@ becomes blessed in the other world.
 heaven, better than lordship over all worlds, is the reward of the first
 step in holiness.
 
-
-
-
-Chapter XIV. The Buddha (The Awakened)
+## 14. The Buddha (The Awakened)
 
 179. He whose conquest is not conquered again, into whose conquest no
 one in this world enters, by what track can you lead him, the Awakened,
@@ -802,10 +757,7 @@ awakened (Buddha) or their disciples, those who have overcome the host
 such as have found deliverance and know no fear, his merit can never be
 measured by anybody.
 
-
-
-
-Chapter XV. Happiness
+## 15. Happiness
 
 197. Let us live happily then, not hating those who hate us! among men
 who hate us let us dwell free from hatred!
@@ -847,10 +799,7 @@ is pleasure, like meeting with kinsfolk.
 learned, the much enduring, the dutiful, the elect; one ought to follow
 a good and wise man, as the moon follows the path of the stars.
 
-
-
-
-Chapter XVI. Pleasure
+## 16. Pleasure
 
 209. He who gives himself to vanity, and does not give himself to
 meditation, forgetting the real aim (of life) and grasping at pleasure,
@@ -892,10 +841,7 @@ and returns safe from afar.
 has gone from this world to the other;--as kinsmen receive a friend on
 his return.
 
-
-
-
-Chapter XVII. Anger
+## 17. Anger
 
 221. Let a man leave anger, let him forsake pride, let him overcome all
 bondage! No sufferings befall the man who is not attached to name and
@@ -941,10 +887,7 @@ sins of the mind, and practise virtue with thy mind!
 234. The wise who control their body, who control their tongue, the wise
 who control their mind, are indeed well controlled.
 
-
-
-
-Chapter XVIII. Impurity
+## 18. Impurity
 
 235. Thou art now like a sear leaf, the messengers of death (Yama) have
 come near to thee; thou standest at the door of thy departure, and thou
@@ -1024,10 +967,7 @@ free from vanity.
 acts. No creatures are eternal; but the awakened (Buddha) are never
 shaken.
 
-
-
-
-Chapter XIX. The Just
+## 19. The Just
 
 256, 257. A man is not just if he carries a matter by violence; no, he
 who distinguishes both right and wrong, who is learned and leads others,
@@ -1081,10 +1021,7 @@ not by entering into a trance, not by sleeping alone, do I earn the
 happiness of release which no worldling can know. Bhikshu, be not
 confident as long as thou hast not attained the extinction of desires.
 
-
-
-
-Chapter XX. The Way
+## 20. The Way
 
 273. The best of ways is the eightfold; the best of truths the four
 words; the best of virtues passionlessness; the best of men he who has
@@ -1147,10 +1084,7 @@ from kinsfolk for one whom death has seized.
 289. A wise and good man who knows the meaning of this, should quickly
 clear the way that leads to Nirvana.
 
-
-
-
-Chapter XXI. Miscellaneous
+## 21. Miscellaneous
 
 290. If by leaving a small pleasure one sees a great pleasure, let a
 wise man leave the small pleasure, and look to the great.
@@ -1208,10 +1142,7 @@ are not seen, like arrows shot by night.
 alone and sleeping alone, he, subduing himself, will rejoice in the
 destruction of all desires alone, as if living in a forest.
 
-
-
-
-Chapter XXII. The Downward Course
+## 22. The Downward Course
 
 306. He who says what is not, goes to hell; he also who, having done a
 thing, says I have not done it. After death both are equal, they are men
@@ -1268,10 +1199,7 @@ doctrines, enter the evil path.
 forbidden as not forbidden, such men, embracing the true doctrine, enter
 the good path.
 
-
-
-
-Chapter XXIII. The Elephant
+## 23. The Elephant
 
 320. Silently shall I endure abuse as the elephant in battle endures the
 arrow sent from the bow: for the world is ill-natured.
@@ -1326,10 +1254,7 @@ Brahmana.
 rooted; pleasant is attainment of intelligence, pleasant is avoiding of
 sins.
 
-
-
-
-Chapter XXIV. Thirst
+## 24. Thirst
 
 334. The thirst of a thoughtless man grows like a creeper; he runs from
 life to life, like a monkey seeking fruit in the forest.
@@ -1433,10 +1358,7 @@ reward.
 therefore a gift bestowed on those who are free from lust brings great
 reward.
 
-
-
-
-Chapter XXV. The Bhikshu (Mendicant)
+## 25. The Bhikshu (Mendicant)
 
 360. Restraint in the eye is good, good is restraint in the ear, in the
 nose restraint is good, good is restraint in the tongue.
@@ -1519,10 +1441,7 @@ happiness.
 382. He who, even as a young Bhikshu, applies himself to the doctrine of
 Buddha, brightens up this world, like the moon when free from clouds.
 
-
-
-
-Chapter XXVI. The Brahmana (Arhat)
+## 26. The Brahmana (Arhat)
 
 383. Stop the stream valiantly, drive away the desires, O Brahmana!
 When you have understood the destruction of all that was made, you will
