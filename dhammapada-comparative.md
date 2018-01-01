@@ -28,6 +28,7 @@ Jer Clarke
 
 **Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[BHIKKU]** translate them into english. In the table of contents immediately below this, the different titles are rendered first in **[PALI]** (from **[TIN]**), then the **[MÜLLER]** version, then the **[BHIKKU]** version.
 
+***TODO*** Insert all **[BHIKKU]** versions and convert into a table for alignment purposes
 
 1. Yamakavagga -  Pairs - The Twin Verses
 2. Appamadavagga - On Earnestness -   
@@ -54,7 +55,7 @@ Jer Clarke
 23. Nagavagga - The Elephant -
 24. Tanhavagga - Thirst -
 25. Bhikkhuvagga - The Bhikshu (Mendicant) -
-26. Brahmanavagga - The Brahmana (Arhat) - 
+26. Brahmanavagga - The Brahmana (Arhat) -
 
 ## 1. Yamakavagga
 * **[MÜLLER]** The Twin-Verses
@@ -79,11 +80,13 @@ cakkamva vahato padam.
 	ruled by the heart, //
 	made of the heart. //
 If you speak or act //
-with a corrupted heart, /
+with a corrupted heart, //
 then suffering follows you — //
-as the wheel of the cart,//
+as the wheel of the cart, //
 	the track of the ox //
 	that pulls it.
+
+**[JER]** All that we are is preceded by the mind (mano): ruled by the mind, made up of the mind. If you speak or act with an impure mind, suffering (dukkha) will follow you, like the wheel follows the hoofprint of the ox that pulls the cart.
 
 ### 2 Matthakundali Vatthu
 
@@ -94,10 +97,7 @@ bhasati va karoti va //
 tato nam sukha manveti //
 chayava anapayini.
 
-**[MÜLLER]** All that we are is the result of what we have thought: it is founded
-  on our thoughts, it is made up of our thoughts. If a man speaks or acts
-  with a pure thought, happiness follows him, like a shadow that never
-  leaves him.
+**[MÜLLER]** All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.
 
 **[TIN]** All mental phenomena have mind as their forerunner; they have mind as their chief; they are mind-made. If one speaks or acts with a pure mind, happiness (sukha) follows him like a shadow that never leaves him.
 
@@ -110,35 +110,53 @@ then happiness follows you, //
 like a shadow //
 	that never leaves.
 
+**[JER]** All that we are is preceded by the mind (mano): ruled by the mind, made up of the mind. If you speak or act with a pure mind, happiness (sukha) will follow you, like a shadow that never leaves.
 
-### 3
+### 3 Tissatthera Vatthu
 
-**[PALI]**
+**[PALI]** Akkocchi mam avadhi mam //
+ajini mam ahasi me //
+ye ca tam upanayhanti //
+veram tesam na sammati.
 
-**[MÜLLER]** "He abused me, he beat me, he defeated me, he robbed me,"--in those
-  who harbour such thoughts hatred will never cease.
+**[MÜLLER]** "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
 
-**[TIN]**
+**[TIN]** "He abused me, he ill-treated me, he got the better of me, he stole my belongings;"... the enmity of those harbouring such thoughts cannot be appeased.
 
-**[BHIKKU]**
+**[BHIKKU]** 'He	insulted me, //
+	hit me, //
+	beat me, //
+	robbed me' //
+ — for those who brood on this, //
+	hostility isn't stilled.
 
-### 4
+**[JER]** "They abused me, they beat me, they defeated me, they robbed me"--in those who harbour such thoughts hatred will never cease.
 
-**[PALI]**
+### 4 Tissatthera Vatthu
 
-**[MÜLLER]** "He abused me, he beat me, he defeated me, he robbed me,"--in those
-  who do not harbour such thoughts hatred will cease.
+**[PALI]** Akkocchi mam avadhi mam //
+ajini mam ahasi me //
+ye ca tam nupanayhanti //
+veram tesupasammati.
 
-**[TIN]**
+**[MÜLLER]** "He abused me, he beat me, he defeated me, he robbed me,"--in those who do not harbour such thoughts hatred will cease.
 
-**[BHIKKU]**
+**[TIN]** "He abused me, he ill-treated me, he got the better of me, he stole my belongings;"... the enmity of those not harbouring such thoughts can be appeased.
+
+**[BHIKKU]** 'He insulted me, //
+hit me, //
+beat me, //
+robbed me' — //
+for those who don't brood on this, //
+	hostility is stilled.
+
+**[JER]** "They abused me, they beat me, they defeated me, they robbed me"--in those who do not harbour such thoughts hatred will cease.
 
 ### 5
 
 **[PALI]**
 
-**[MÜLLER]** For hatred does not cease by hatred at any time: hatred ceases by
-  love, this is an old rule.
+**[MÜLLER]** For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
 
 **[TIN]**
 
@@ -148,8 +166,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** The world does not know that we must all come to an end here;--but
-  those who know it, their quarrels cease at once.
+**[MÜLLER]** The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
 
 **[TIN]**
 
@@ -159,9 +176,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** He who lives looking for pleasures only, his senses uncontrolled,
-  immoderate in his food, idle, and weak, Mara (the tempter) will
-  certainly overthrow him, as the wind throws down a weak tree.
+**[MÜLLER]** He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
 
 **[TIN]**
 
@@ -171,10 +186,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** He who lives without looking for pleasures, his senses well
-  controlled, moderate in his food, faithful and strong, him Mara will
-  certainly not overthrow, any more than the wind throws down a rocky
-  mountain.
+**[MÜLLER]** He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
 
 **[TIN]**
 
@@ -184,9 +196,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** He who wishes to put on the yellow dress without having cleansed
-  himself from sin, who disregards temperance and truth, is unworthy of
-  the yellow dress.
+**[MÜLLER]** He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
 
 **[TIN]**
 
@@ -196,9 +206,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** But he who has cleansed himself from sin, is well grounded in all
-  virtues, and regards also temperance and truth, he is indeed worthy of
-  the yellow dress.
+**[MÜLLER]** But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
 
 **[TIN]**
 
@@ -208,8 +216,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** They who imagine truth in untruth, and see untruth in truth, never
-  arrive at truth, but follow vain desires.
+**[MÜLLER]** They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
 
 **[TIN]**
 
@@ -219,8 +226,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** They who know truth in truth, and untruth in untruth, arrive at
-  truth, and follow true desires.
+**[MÜLLER]** They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
 
 **[TIN]**
 
@@ -230,8 +236,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** As rain breaks through an ill-thatched house, passion will break
-  through an unreflecting mind.
+**[MÜLLER]** As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
 
 **[TIN]**
 
@@ -241,8 +246,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** As rain does not break through a well-thatched house, passion will
-  not break through a well-reflecting mind.
+**[MÜLLER]** As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
 
 **[TIN]**
 
@@ -252,9 +256,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** The evil-doer mourns in this world, and he mourns in the next; he
-  mourns in both. He mourns and suffers when he sees the evil of his own
-  work.
+**[MÜLLER]** The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
 
 **[TIN]**
 
@@ -264,9 +266,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** The virtuous man delights in this world, and he delights in the
-  next; he delights in both. He delights and rejoices, when he sees the
-  purity of his own work.
+**[MÜLLER]** The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
 
 **[TIN]**
 
@@ -276,9 +276,7 @@ like a shadow //
 
 **[PALI]**
 
-**[MÜLLER]** The evil-doer suffers in this world, and he suffers in the next; he
-  suffers in both. He suffers when he thinks of the evil he has done; he
-  suffers more when going on the evil path.
+**[MÜLLER]** The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
 
 **[TIN]**
 
