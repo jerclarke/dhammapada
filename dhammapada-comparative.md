@@ -152,25 +152,44 @@ for those who don't brood on this, //
 
 **[JER]** "They abused me, they beat me, they defeated me, they robbed me"--in those who do not harbour such thoughts hatred will cease.
 
-### 5
+### 5 Kalayakkhini Vatthu
 
-**[PALI]**
+**[PALI]** Na hi verena verani //
+sammantidha kudacanam //
+averena ca sammanti //
+esa dhammo sanantano.
 
 **[MÜLLER]** For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
 
-**[TIN]**
+**[TIN]** Hatred is, indeed, never appeased by hatred in this world. It is appeased only by loving-kindness. This is an ancient law.
 
-**[BHIKKU]**
+**[BHIKKU]** Hostilities aren't stilled //
+	through hostility, //
+	regardless. //
+Hostilities are stilled //
+through non-hostility: //
+	this, an unending truth.
 
-### 6
+**[JER]** For hatred is never appeased by hatred, It is appeased by loving-kindness. This is an old rule.
 
-**[PALI]**
+### 6 Kosambaka Vatthu
+
+**[PALI]** Pare ca na vijananti //
+mayamettha yamamase //
+ye ca tattha vijananti //
+tato sammanti medhaga.
 
 **[MÜLLER]** The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
 
-**[TIN]**
+**[TIN]** People, other than the wise, do not realize, "We in this world must all die," (and, not realizing it, continue their quarrels). The wise realize it and thereby their quarrels cease.
 
-**[BHIKKU]**
+**[BHIKKU]** Unlike those who don't realize //
+that we're here on the verge //
+	of perishing, //
+those who do: //
+	their quarrels are stilled.
+
+**[JER]** Unlike for those who do not understand that we all must die, for those who do understand this, all quarrels cease.
 
 ### 7
 
