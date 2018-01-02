@@ -1,5 +1,9 @@
 **The Dhammapada - A modern, inclusive, gender neutral interpretation of the seminal Buddhist book of sayings, assembled by Jer Clarke.**
 
+> ***NOTE! This document is 100% not reworked yet! As of writing this note, all verses below are the original F. Max Müller translations!
+>
+> If you are reading this please see `dhammapada-comparative.md` where I am working on this project verse by verse, collecting the original Pali and three other English translations in addition to my own versions. 
+
 This work has been modified from the translation edited by F. Max Müller which was published in 1900 as part of "The Sacred Books of the East" Volume X, Part 1, and later produced as a transcribed ebook for Project Gutenberg by Tom Weiss in 2008.
 
 Learn more about the history and meaning of this text on the [Dhammapada Wikipedia Article](https://en.wikipedia.org/wiki/Dhammapada).
