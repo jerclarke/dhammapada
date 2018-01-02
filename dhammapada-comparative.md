@@ -213,7 +213,7 @@ apathetic, unenergetic: //
 	Mara overcomes him //
 	as the wind, a weak tree.
 
-**[JER]** If you stay focused on pleasant things, uncontrolled in your senses, immoderate in diet, idle and lacking energy, you will certainly be overwhelmed by Mara (temptation), just as the wind uproots a weak tree.
+**[JER]** If you stay focused on pleasant things, uncontrolled in your senses, immoderate in diet, idle and lacking energy, you will certainly be overwhelmed by Mara the corrupter, just as the wind uproots a weak tree.
 
 ### 8 Mahakalatthera Vatthu
 
@@ -235,7 +235,7 @@ full of conviction & energy: //
 	Mara does not overcome him //
 	as the wind, a mountain of rock.
 
-**[JER]** If you stay focused on impurities and the foul, are well controlled in your senses, moderate in diet, full of faith and energy, you will certainly not be overwhelmed by Mara (temptation), just as the wind cannot shake a mountain of rock.
+**[JER]** If you stay focused on impurities and the foul, are well controlled in your senses, moderate in diet, full of faith and energy, you will certainly not be overwhelmed by Mara the corrupter, just as the wind cannot shake a mountain of rock.
 
 ### 9
 
