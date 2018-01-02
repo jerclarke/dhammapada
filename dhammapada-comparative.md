@@ -8,15 +8,15 @@ Please consider the use of the non-Müller versions here as fair use. Included f
 
 ## Versions used:
 
+* **[PALI]** The Pali versions of each verse are taken from the **[TIN]** version, which states "The Pali text used is the Dhammapada Pali approved by the Sixth International Buddhist Synod"
 * **[MÜLLER]** [Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists](http://www.gutenberg.org/ebooks/2017) Translated by F. Max Müller
 * **[TIN]** [The Dhammapada: Verses and Stories](http://www.tipitaka.net/tipitaka/dhp/index.php) Translated by Daw Mya Tin, M.A, Edited by Editorial Committee, Burma Tipitaka Association Rangoon, Burma, 1986.
-* **[BHIKKU]** [The Dhammapada A Translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html) translated from the Pali by Thanissaro Bhikkhu, 1997.
-* **[PALI]** The Pali versions of each verse are taken from the **[BHIKKU]** version, which states "The Pali text used is the Dhammapada Pali approved by the Sixth International Buddhist Synod"
+* **[THANISSARO]** [The Dhammapada A Translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html) translated from the Pali by Thanissaro Bhikkhu, 1997.
 * **[JER]** Where there is a **[JER]** version of a verse this indicates I have created my version, gender neutral and plain language, and added it with the others.
 
 ## License of this comparative document
 
-In light of the [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) licence applied to the **[BHIKKU]** version, this document should also be treated as having a [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/), unlike my final translation which will have a more permissive license.
+In light of the [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) licence applied to the **[THANISSARO]** version, this document should also be treated as having a [Creative Commons Attribution Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/), unlike my final translation which will have a more permissive license.
 
 Although no explicit license is stated on the **[TIN]** version, it does say "For free distribution only, as a gift of dhamma." My hope is that [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/), honors the spirit of this request, but please, consider this request as applying to this document also: Do not lock it behind any doors, and if you share this document, do so freely.
 
@@ -26,9 +26,9 @@ Jer Clarke
 
 # The Dhammapada
 
-**Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[BHIKKU]** translate them into english. In the table of contents immediately below this, the different titles are rendered first in **[PALI]** (from **[TIN]**), then the **[MÜLLER]** version, then the **[BHIKKU]** version.
+**Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[THANISSARO]** translate them into english. In the table of contents immediately below this, the different titles are rendered first in **[PALI]** (from **[TIN]**), then the **[MÜLLER]** version, then the **[THANISSARO]** version.
 
-***TODO*** Insert all **[BHIKKU]** versions and convert into a table for alignment purposes
+***TODO*** Insert all **[THANISSARO]** versions and convert into a table for alignment purposes
 
 1. Yamakavagga -  Pairs - The Twin Verses
 2. Appamadavagga - On Earnestness -   
@@ -60,7 +60,7 @@ Jer Clarke
 ## 1. Yamakavagga
 * **[MÜLLER]** The Twin-Verses
 * **[TIN]** Yamakavagga
-* **[BHIKKU]** Pairs
+* **[THANISSARO]** Pairs
 
 ### 1 Cakkhupalatthera Vatthu
 
@@ -76,7 +76,7 @@ cakkamva vahato padam.
 
 **[TIN]** All mental phenomena have mind as their forerunner; they have mind as their chief; they are mind-made. If one speaks or acts with an evil mind, 'dukkha' follows him just as the wheel follows the hoofprint of the ox that draws the cart.
 
-**[BHIKKU]** Phenomena are   preceded by the heart, //
+**[THANISSARO]** Phenomena are   preceded by the heart, //
 	ruled by the heart, //
 	made of the heart. //
 If you speak or act //
@@ -101,7 +101,7 @@ chayava anapayini.
 
 **[TIN]** All mental phenomena have mind as their forerunner; they have mind as their chief; they are mind-made. If one speaks or acts with a pure mind, happiness (sukha) follows him like a shadow that never leaves him.
 
-**[BHIKKU]** Phenomena are  preceded by the heart, //
+**[THANISSARO]** Phenomena are  preceded by the heart, //
 	ruled by the heart, //
 	made of the heart. //
 If you speak or act //
@@ -123,7 +123,7 @@ veram tesam na sammati.
 
 **[TIN]** "He abused me, he ill-treated me, he got the better of me, he stole my belongings;"... the enmity of those harbouring such thoughts cannot be appeased.
 
-**[BHIKKU]** 'He	insulted me, //
+**[THANISSARO]** 'He	insulted me, //
 	hit me, //
 	beat me, //
 	robbed me' //
@@ -143,7 +143,7 @@ veram tesupasammati.
 
 **[TIN]** "He abused me, he ill-treated me, he got the better of me, he stole my belongings;"... the enmity of those not harbouring such thoughts can be appeased.
 
-**[BHIKKU]** 'He insulted me, //
+**[THANISSARO]** 'He insulted me, //
 hit me, //
 beat me, //
 robbed me' — //
@@ -163,7 +163,7 @@ esa dhammo sanantano.
 
 **[TIN]** Hatred is, indeed, never appeased by hatred in this world. It is appeased only by loving-kindness. This is an ancient law.
 
-**[BHIKKU]** Hostilities aren't stilled //
+**[THANISSARO]** Hostilities aren't stilled //
 	through hostility, //
 	regardless. //
 Hostilities are stilled //
@@ -183,7 +183,7 @@ tato sammanti medhaga.
 
 **[TIN]** People, other than the wise, do not realize, "We in this world must all die," (and, not realizing it, continue their quarrels). The wise realize it and thereby their quarrels cease.
 
-**[BHIKKU]** Unlike those who don't realize //
+**[THANISSARO]** Unlike those who don't realize //
 that we're here on the verge //
 	of perishing, //
 those who do: //
@@ -199,7 +199,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 8
 
@@ -209,7 +209,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 9
 
@@ -219,7 +219,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 10
 
@@ -229,7 +229,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 11
 
@@ -239,7 +239,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 12
 
@@ -249,7 +249,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 13
 
@@ -259,7 +259,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 14
 
@@ -269,7 +269,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 15
 
@@ -279,7 +279,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 16
 
@@ -289,7 +289,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 17
 
@@ -299,7 +299,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 18
 
@@ -311,7 +311,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 19
 
@@ -323,7 +323,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 20
 
@@ -338,7 +338,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 21
 
@@ -350,7 +350,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 22
 
@@ -362,7 +362,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 23
 
@@ -373,7 +373,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 24
 
@@ -385,7 +385,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 25
 
@@ -396,7 +396,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 26
 
@@ -407,7 +407,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 27
 
@@ -418,7 +418,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 28
 
@@ -431,7 +431,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 29
 
@@ -442,7 +442,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 30
 
@@ -453,7 +453,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 31
 
@@ -465,7 +465,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 32
 
@@ -479,7 +479,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 33
 
@@ -491,7 +491,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 34
 
@@ -503,7 +503,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 35
 
@@ -514,7 +514,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 36
 
@@ -526,7 +526,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 37
 
@@ -538,7 +538,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 38
 
@@ -549,7 +549,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 39
 
@@ -561,7 +561,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 40
 
@@ -574,7 +574,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 41
 
@@ -585,7 +585,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 42
 
@@ -596,7 +596,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 43
 
@@ -609,7 +609,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 44
 
@@ -621,7 +621,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 45
 
@@ -633,7 +633,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 46
 
@@ -645,7 +645,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 47
 
@@ -656,7 +656,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 48
 
@@ -667,7 +667,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 49
 
@@ -678,7 +678,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 50
 
@@ -690,7 +690,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 51
 
@@ -701,7 +701,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 52
 
@@ -712,7 +712,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 53
 
@@ -723,7 +723,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 54
 
@@ -735,7 +735,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 55
 
@@ -746,7 +746,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 56
 
@@ -757,7 +757,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 57
 
@@ -774,7 +774,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 5. The Fool
 
@@ -788,7 +788,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 61
 
@@ -800,7 +800,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 62
 
@@ -812,7 +812,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 63
 
@@ -823,7 +823,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 64
 
@@ -834,7 +834,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 65
 
@@ -846,7 +846,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 66
 
@@ -857,7 +857,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 67
 
@@ -868,7 +868,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 68
 
@@ -879,7 +879,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 69
 
@@ -890,7 +890,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 70
 
@@ -902,7 +902,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 71
 
@@ -913,7 +913,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 72
 
@@ -924,7 +924,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 73
 
@@ -935,7 +935,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 74
 
@@ -948,7 +948,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 75
 
@@ -961,7 +961,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 6. The Wise Man (Pandita)
 
@@ -976,7 +976,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 77
 
@@ -987,7 +987,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 78
 
@@ -999,7 +999,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 79
 
@@ -1010,7 +1010,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 80
 
@@ -1021,7 +1021,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 81
 
@@ -1032,7 +1032,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 82
 
@@ -1043,7 +1043,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 83
 
@@ -1055,7 +1055,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 84
 
@@ -1068,7 +1068,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 85
 
@@ -1079,7 +1079,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 86
 
@@ -1098,7 +1098,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 89
 
@@ -1111,7 +1111,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 7. The Venerable (Arhat).
 
@@ -1125,7 +1125,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 91
 
@@ -1137,7 +1137,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 92
 
@@ -1149,7 +1149,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 93
 
@@ -1161,7 +1161,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 94
 
@@ -1173,7 +1173,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 95
 
@@ -1185,7 +1185,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 96
 
@@ -1196,7 +1196,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 97
 
@@ -1208,7 +1208,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 98
 
@@ -1219,7 +1219,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 99
 
@@ -1230,7 +1230,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 8. The Thousands
 
@@ -1244,7 +1244,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 101
 
@@ -1256,7 +1256,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 102
 
@@ -1267,7 +1267,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 103
 
@@ -1283,7 +1283,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 106
 
@@ -1296,7 +1296,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 107
 
@@ -1309,7 +1309,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 108
 
@@ -1322,7 +1322,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 109
 
@@ -1333,7 +1333,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 110
 
@@ -1344,7 +1344,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 111
 
@@ -1355,7 +1355,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 112
 
@@ -1366,7 +1366,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 113
 
@@ -1377,7 +1377,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 114
 
@@ -1388,7 +1388,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 115
 
@@ -1399,7 +1399,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 9. Evil
 
@@ -1413,7 +1413,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 117
 
@@ -1424,7 +1424,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 118
 
@@ -1435,7 +1435,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 119
 
@@ -1447,7 +1447,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 120
 
@@ -1459,7 +1459,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 121
 
@@ -1472,7 +1472,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 122
 
@@ -1485,7 +1485,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 123
 
@@ -1497,7 +1497,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 124
 
@@ -1509,7 +1509,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 125
 
@@ -1520,7 +1520,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 126
 
@@ -1532,7 +1532,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 127
 
@@ -1544,7 +1544,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 10. Punishment
 
@@ -1557,7 +1557,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 130
 
@@ -1568,7 +1568,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 131
 
@@ -1579,7 +1579,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 132
 
@@ -1590,7 +1590,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 133
 
@@ -1602,7 +1602,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 134
 
@@ -1613,7 +1613,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 135
 
@@ -1624,7 +1624,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 136
 
@@ -1635,7 +1635,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 137
 
@@ -1646,7 +1646,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 138
 
@@ -1657,7 +1657,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 139
 
@@ -1668,7 +1668,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 140
 
@@ -1679,7 +1679,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 141
 
@@ -1691,7 +1691,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 142
 
@@ -1704,7 +1704,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 143
 
@@ -1715,7 +1715,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 144
 
@@ -1728,7 +1728,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 145
 
@@ -1739,7 +1739,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 11. Old Age
 
@@ -1752,7 +1752,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 147
 
@@ -1763,7 +1763,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 148
 
@@ -1774,7 +1774,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 149
 
@@ -1785,7 +1785,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 150
 
@@ -1797,7 +1797,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 151
 
@@ -1809,7 +1809,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 152
 
@@ -1828,7 +1828,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 155
 
@@ -1839,7 +1839,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 156
 
@@ -1850,7 +1850,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 12. Self
 
@@ -1863,7 +1863,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 158
 
@@ -1874,7 +1874,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 159
 
@@ -1886,7 +1886,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 160
 
@@ -1897,7 +1897,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 161
 
@@ -1908,7 +1908,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 162
 
@@ -1920,7 +1920,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 163
 
@@ -1931,7 +1931,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 164
 
@@ -1943,7 +1943,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 165
 
@@ -1955,7 +1955,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 166
 
@@ -1967,7 +1967,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 13. The World
 
@@ -1980,7 +1980,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 168
 
@@ -1991,7 +1991,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 169
 
@@ -2002,7 +2002,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 170
 
@@ -2013,7 +2013,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 171
 
@@ -2024,7 +2024,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 172
 
@@ -2035,7 +2035,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 173
 
@@ -2046,7 +2046,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 174
 
@@ -2057,7 +2057,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 175
 
@@ -2069,7 +2069,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 176
 
@@ -2080,7 +2080,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 177
 
@@ -2092,7 +2092,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 178
 
@@ -2104,7 +2104,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 14. The Buddha (The Awakened)
 
@@ -2118,7 +2118,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 180
 
@@ -2130,7 +2130,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 181
 
@@ -2142,7 +2142,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 182
 
@@ -2154,7 +2154,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 183
 
@@ -2165,7 +2165,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 184
 
@@ -2177,7 +2177,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 185
 
@@ -2189,7 +2189,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 186
 
@@ -2200,7 +2200,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 187
 
@@ -2211,7 +2211,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 188
 
@@ -2222,7 +2222,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 189
 
@@ -2233,7 +2233,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 190
 
@@ -2244,7 +2244,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 191
 
@@ -2255,7 +2255,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 192
 
@@ -2266,7 +2266,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 193
 
@@ -2277,7 +2277,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 194
 
@@ -2295,7 +2295,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 15. Happiness
 
@@ -2308,7 +2308,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 198
 
@@ -2319,7 +2319,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 199
 
@@ -2330,7 +2330,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 200
 
@@ -2341,7 +2341,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 201
 
@@ -2352,7 +2352,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 202
 
@@ -2364,7 +2364,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 203
 
@@ -2375,7 +2375,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 204
 
@@ -2386,7 +2386,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 205
 
@@ -2398,7 +2398,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 206
 
@@ -2409,7 +2409,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 207
 
@@ -2421,7 +2421,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 208
 
@@ -2433,7 +2433,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 16. Pleasure
 
@@ -2447,7 +2447,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 210
 
@@ -2459,7 +2459,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 211
 
@@ -2470,7 +2470,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 212
 
@@ -2481,7 +2481,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 213
 
@@ -2492,7 +2492,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 214
 
@@ -2503,7 +2503,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 215
 
@@ -2514,7 +2514,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 216
 
@@ -2525,7 +2525,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 217
 
@@ -2536,7 +2536,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 218
 
@@ -2548,7 +2548,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 219
 
@@ -2559,7 +2559,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 220
 
@@ -2571,7 +2571,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 17. Anger
 
@@ -2585,7 +2585,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 222
 
@@ -2596,7 +2596,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 223
 
@@ -2607,7 +2607,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 224
 
@@ -2618,7 +2618,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 225
 
@@ -2630,7 +2630,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 226
 
@@ -2641,7 +2641,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 227
 
@@ -2653,7 +2653,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 228
 
@@ -2669,7 +2669,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 231
 
@@ -2680,7 +2680,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 232
 
@@ -2691,7 +2691,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 233
 
@@ -2702,7 +2702,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 234
 
@@ -2713,7 +2713,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 18. Impurity
 
@@ -2727,7 +2727,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 236
 
@@ -2739,7 +2739,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 237
 
@@ -2751,7 +2751,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 238
 
@@ -2763,7 +2763,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 239
 
@@ -2775,7 +2775,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 240
 
@@ -2787,7 +2787,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 241
 
@@ -2799,7 +2799,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 242
 
@@ -2810,7 +2810,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 243
 
@@ -2822,7 +2822,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 244
 
@@ -2833,7 +2833,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 245
 
@@ -2844,7 +2844,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 246
 
@@ -2855,7 +2855,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 247
 
@@ -2866,7 +2866,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 248
 
@@ -2878,7 +2878,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 249
 
@@ -2890,7 +2890,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 250
 
@@ -2901,7 +2901,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 251
 
@@ -2912,7 +2912,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 252
 
@@ -2925,7 +2925,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 253
 
@@ -2937,7 +2937,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 254
 
@@ -2949,7 +2949,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 255
 
@@ -2961,7 +2961,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 19. The Just
 
@@ -2979,7 +2979,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 259
 
@@ -2991,7 +2991,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 260
 
@@ -3002,7 +3002,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 261
 
@@ -3013,7 +3013,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 262
 
@@ -3024,7 +3024,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 263
 
@@ -3035,7 +3035,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 264
 
@@ -3047,7 +3047,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 265
 
@@ -3058,7 +3058,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 266
 
@@ -3070,7 +3070,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 267
 
@@ -3086,7 +3086,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 270
 
@@ -3103,7 +3103,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 20. The Way
 
@@ -3117,7 +3117,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 274
 
@@ -3129,7 +3129,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 275
 
@@ -3141,7 +3141,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 276
 
@@ -3153,7 +3153,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 277
 
@@ -3164,7 +3164,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 278
 
@@ -3175,7 +3175,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 279
 
@@ -3186,7 +3186,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 280
 
@@ -3198,7 +3198,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 281
 
@@ -3210,7 +3210,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 282
 
@@ -3222,7 +3222,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 283
 
@@ -3235,7 +3235,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 284
 
@@ -3247,7 +3247,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 285
 
@@ -3258,7 +3258,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 286
 
@@ -3269,7 +3269,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 287
 
@@ -3280,7 +3280,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 288
 
@@ -3291,7 +3291,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 289
 
@@ -3302,7 +3302,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 21. Miscellaneous
 
@@ -3315,7 +3315,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 291
 
@@ -3327,7 +3327,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 292
 
@@ -3338,7 +3338,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 293
 
@@ -3351,7 +3351,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 294
 
@@ -3363,7 +3363,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 295
 
@@ -3374,7 +3374,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 296
 
@@ -3385,7 +3385,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 297
 
@@ -3396,7 +3396,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 298
 
@@ -3407,7 +3407,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 299
 
@@ -3418,7 +3418,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 300
 
@@ -3429,7 +3429,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 301
 
@@ -3440,7 +3440,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 302
 
@@ -3454,7 +3454,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 303
 
@@ -3465,7 +3465,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 304
 
@@ -3476,7 +3476,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 305
 
@@ -3488,7 +3488,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 22. The Downward Course
 
@@ -3502,7 +3502,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 307
 
@@ -3514,7 +3514,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 308
 
@@ -3526,7 +3526,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 309
 
@@ -3538,7 +3538,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 310
 
@@ -3551,7 +3551,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 311
 
@@ -3562,7 +3562,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 312
 
@@ -3573,7 +3573,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 313
 
@@ -3585,7 +3585,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 314
 
@@ -3597,7 +3597,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 315
 
@@ -3610,7 +3610,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 316
 
@@ -3622,7 +3622,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 317
 
@@ -3633,7 +3633,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 318
 
@@ -3645,7 +3645,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 319
 
@@ -3657,7 +3657,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 23. The Elephant
 
@@ -3670,7 +3670,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 321
 
@@ -3682,7 +3682,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 322
 
@@ -3693,7 +3693,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 323
 
@@ -3705,7 +3705,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 324
 
@@ -3717,7 +3717,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 325
 
@@ -3729,7 +3729,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 326
 
@@ -3741,7 +3741,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 327
 
@@ -3752,7 +3752,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 328
 
@@ -3764,7 +3764,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 329
 
@@ -3776,7 +3776,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 330
 
@@ -3788,7 +3788,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 331
 
@@ -3800,7 +3800,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 332
 
@@ -3812,7 +3812,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 333
 
@@ -3824,7 +3824,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 24. Thirst
 
@@ -3837,7 +3837,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 335
 
@@ -3848,7 +3848,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 336
 
@@ -3860,7 +3860,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 337
 
@@ -3873,7 +3873,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 338
 
@@ -3885,7 +3885,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 339
 
@@ -3897,7 +3897,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 340
 
@@ -3909,7 +3909,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 341
 
@@ -3920,7 +3920,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 342
 
@@ -3931,7 +3931,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 343
 
@@ -3943,7 +3943,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 344
 
@@ -3956,7 +3956,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 345
 
@@ -3968,7 +3968,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 346
 
@@ -3980,7 +3980,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 347
 
@@ -3993,7 +3993,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 348
 
@@ -4005,7 +4005,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 349
 
@@ -4017,7 +4017,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 350
 
@@ -4029,7 +4029,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 351
 
@@ -4041,7 +4041,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 352
 
@@ -4054,7 +4054,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 353
 
@@ -4066,7 +4066,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 354
 
@@ -4078,7 +4078,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 355
 
@@ -4090,7 +4090,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 356
 
@@ -4101,7 +4101,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 357
 
@@ -4112,7 +4112,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 358
 
@@ -4124,7 +4124,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 359
 
@@ -4136,7 +4136,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 25. The Bhikshu (Mendicant)
 
@@ -4149,7 +4149,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 361
 
@@ -4161,7 +4161,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 362
 
@@ -4173,7 +4173,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 363
 
@@ -4184,7 +4184,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 364
 
@@ -4196,7 +4196,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 365
 
@@ -4207,7 +4207,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 366
 
@@ -4219,7 +4219,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 367
 
@@ -4230,7 +4230,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 368
 
@@ -4242,7 +4242,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 369
 
@@ -4253,7 +4253,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 370
 
@@ -4265,7 +4265,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 371
 
@@ -4278,7 +4278,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 372
 
@@ -4290,7 +4290,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 373
 
@@ -4301,7 +4301,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 374
 
@@ -4313,7 +4313,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 375
 
@@ -4325,7 +4325,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 376
 
@@ -4336,7 +4336,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 377
 
@@ -4347,7 +4347,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 378
 
@@ -4358,7 +4358,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 379
 
@@ -4369,7 +4369,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 380
 
@@ -4380,7 +4380,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 381
 
@@ -4392,7 +4392,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 382
 
@@ -4403,7 +4403,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
   ## 26. The Brahmana (Arhat)
 
@@ -4417,7 +4417,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 384
 
@@ -4429,7 +4429,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 385
 
@@ -4440,7 +4440,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 386
 
@@ -4452,7 +4452,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 387
 
@@ -4464,7 +4464,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 388
 
@@ -4477,7 +4477,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 389
 
@@ -4489,7 +4489,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 390
 
@@ -4501,7 +4501,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 391
 
@@ -4512,7 +4512,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 392
 
@@ -4524,7 +4524,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 393
 
@@ -4536,7 +4536,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 394
 
@@ -4548,7 +4548,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 395
 
@@ -4560,7 +4560,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 396
 
@@ -4572,7 +4572,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 397
 
@@ -4583,7 +4583,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 398
 
@@ -4595,7 +4595,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 399
 
@@ -4607,7 +4607,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 400
 
@@ -4619,7 +4619,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 401
 
@@ -4630,7 +4630,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 402
 
@@ -4641,7 +4641,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 403
 
@@ -4653,7 +4653,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 404
 
@@ -4664,7 +4664,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 405
 
@@ -4675,7 +4675,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 406
 
@@ -4686,7 +4686,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 407
 
@@ -4697,7 +4697,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 408
 
@@ -4708,7 +4708,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 409
 
@@ -4719,7 +4719,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 410
 
@@ -4730,7 +4730,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 411
 
@@ -4742,7 +4742,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 412
 
@@ -4754,7 +4754,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 413
 
@@ -4765,7 +4765,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 414
 
@@ -4778,7 +4778,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 415
 
@@ -4790,7 +4790,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 416
 
@@ -4801,7 +4801,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 417
 
@@ -4813,7 +4813,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 418
 
@@ -4825,7 +4825,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 419
 
@@ -4837,7 +4837,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 420
 
@@ -4849,7 +4849,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 421
 
@@ -4861,7 +4861,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 422
 
@@ -4873,7 +4873,7 @@ those who do: //
 
 **[TIN]**
 
-**[BHIKKU]**
+**[THANISSARO]**
 
 ### 423
 
