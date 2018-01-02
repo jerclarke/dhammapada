@@ -26,39 +26,37 @@ Jer Clarke
 
 # The Dhammapada
 
-**Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[THANISSARO]** translate them into english. In the table of contents immediately below this, the different titles are rendered first in **[PALI]** (from **[TIN]**), then the **[MÜLLER]** version, then the **[THANISSARO]** version.
+**Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[THANISSARO]** translate them into english.
 
 
-Chapter | PALI/TIN        | MÜLLER                    | THANISSARO
-------- | --------------- | ------------------------- | ----------
-      1 | Yamakavagga     | The Twin Verses           | Pairs
-      2 | Appamadavagga   | On Earnestness            | Heedfulness
-      3 | Cittavagga      | Thought                   | The Mind
-      4 | Pupphavagga     | Flowers                   | Blossoms
-      5 | Balavagga       | The Fool                  | Fools
-      6 | Panditavagga    | The Wise Man (Pandita)    | The Wise
-      7 | Arahantavagga   | The Venerable (Arhat)     | Arahants
-      8 | Sahassavagga    | The Thousands             | Thousands
-      9 | Papavagga       | Evil                      | Evil
-     10 | Dandavagga      | Punishment                | The Rod
-     11 | Jaravagga       | Old Age                   | Aging
-     12 | Attavagga       | Self                      | Self
-     13 | Lokavagga       | The World                 | Worlds
-     14 | Buddhavagga     | The Buddha (the Awakened) | Awakened
-     15 | Sukhavagga      | Happiness                 | Happy
-     16 | Piyavagga       | Pleasure                  | Dear Ones
-     17 | Kodhavagga      | Anger                     | Anger
-     18 | Malavagga       | Impurity                  | Impurities
-     19 | Dhammatthavagga | The Just                  | The Judge
-     20 | Maggavagga      | The Way                   | The Path
-     21 | Pakinnakavagga  | Miscellaneous             | Miscellany
-     22 | Nirayavagga     | The Downward Course       | Hell
-     23 | Nagavagga       | The Elephant              | Elephants
-     24 | Tanhavagga      | Thirst                    | Craving
-     25 | Bhikkhuvagga    | The Bhikshu (Mendicant)   | Monks
-     26 | Brahmanavagga   | The Brahmana (Arhat)      | Brahmans
-
-
+| Chapter | PALI (TIN)      | MÜLLER                    | THANISSARO
+| ------- | --------------- | ------------------------- | ----------
+|       1 | Yamakavagga     | The Twin Verses           | Pairs
+|       2 | Appamadavagga   | On Earnestness            | Heedfulness
+|       3 | Cittavagga      | Thought                   | The Mind
+|       4 | Pupphavagga     | Flowers                   | Blossoms
+|       5 | Balavagga       | The Fool                  | Fools
+|       6 | Panditavagga    | The Wise Man (Pandita)    | The Wise
+|       7 | Arahantavagga   | The Venerable (Arhat)     | Arahants
+|       8 | Sahassavagga    | The Thousands             | Thousands
+|       9 | Papavagga       | Evil                      | Evil
+|      10 | Dandavagga      | Punishment                | The Rod
+|      11 | Jaravagga       | Old Age                   | Aging
+|      12 | Attavagga       | Self                      | Self
+|      13 | Lokavagga       | The World                 | Worlds
+|      14 | Buddhavagga     | The Buddha (the Awakened) | Awakened
+|      15 | Sukhavagga      | Happiness                 | Happy
+|      16 | Piyavagga       | Pleasure                  | Dear Ones
+|      17 | Kodhavagga      | Anger                     | Anger
+|      18 | Malavagga       | Impurity                  | Impurities
+|      19 | Dhammatthavagga | The Just                  | The Judge
+|      20 | Maggavagga      | The Way                   | The Path
+|      21 | Pakinnakavagga  | Miscellaneous             | Miscellany
+|      22 | Nirayavagga     | The Downward Course       | Hell
+|      23 | Nagavagga       | The Elephant              | Elephants
+|      24 | Tanhavagga      | Thirst                    | Craving
+|      25 | Bhikkhuvagga    | The Bhikshu (Mendicant)   | Monks
+|      26 | Brahmanavagga   | The Brahmana (Arhat)      | Brahmans
 
 
 ## 1. Yamakavagga
