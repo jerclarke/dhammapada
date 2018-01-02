@@ -237,25 +237,47 @@ full of conviction & energy: //
 
 **[JER]** If you stay focused on impurities and the foul, are well controlled in your senses, moderate in diet, full of faith and energy, you will certainly not be overwhelmed by Mara the corrupter, just as the wind cannot shake a mountain of rock.
 
-### 9
+### 9 Devadatta Vatthu
 
-**[PALI]**
+**[PALI]** Anikkasavo kasavam //
+yo vattham paridahissati //
+apeto damasaccena //
+na so kasavamarahati.
 
 **[MÜLLER]** He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
 
-**[TIN]**
+**[TIN]** He who is not free from taints of moral defilements (kilesas) and yet dons the yellow robe, who lacks restraint in his senses and (speaks not the) truth is unworthy of the yellow robe.
 
-**[THANISSARO]**
+**[THANISSARO]** He who,	depraved, //
+		devoid //
+	of truthfulness //
+	& self-control, //
+puts on the ochre robe, //
+doesn't deserve the ochre robe.
 
-### 10
+**[JER]** If you put on the yellow robe, but are not free of the defilements (kilesas), lacking self-control and truthfulness, you are unworthy of the yellow robe.
 
-**[PALI]**
+### 10 Devadatta Vatthu
+
+**[PALI]** Yo ca vantakasav'assa //
+silesu susamahito //
+upeto damasaccena //
+sa ve kasavamarahati.
 
 **[MÜLLER]** But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
 
-**[TIN]**
+**[TIN]** He who has discarded all moral defilements (kilesas), who is established in moral precepts, is endowed with restraint and (speaks the) truth is, indeed, worthy of the yellow robe.
 
-**[THANISSARO]**
+**[THANISSARO]** But he who is free //
+	               of depravity //
+	           endowed //
+	               with truthfulness //
+	               & self-control, //
+	           well-established //
+	               in the precepts, //
+truly deserves the ochre robe.
+
+**[JER]** If you have discarded all defilements (kilesas), are established in the precepts, endowed with self-control and truthfulness, you are truly worthy of the yellow robe.
 
 ### 11
 
