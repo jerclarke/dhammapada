@@ -193,25 +193,49 @@ those who do: //
 
 **[JER]** Unlike for those who do not understand that we all must die, for those who do understand this, all quarrels cease.
 
-### 7
+### 7 Mahakalatthera Vatthu
 
-**[PALI]**
+**[PALI]** Subhanupassim viharantam //
+indriyesu asamvutam //
+bhojanamhi camattannum //
+kusitam hinaviriyam //
+tam ve pasahati Maro //
+vato rukkhamva dubbalam.
 
 **[MÜLLER]** He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
 
-**[TIN]**
+**[TIN]** He who keeps his mind on pleasant objects, who is uncontrolled in his senses, immoderate in his food, and is lazy and lacking in energy, will certainly be overwhelmed by Mara,3 just as stormy winds uproot a weak tree.
 
-**[THANISSARO]**
+**[THANISSARO]** One who stays focused on the beautiful, //
+is unrestrained with the senses, //
+knowing no moderation in food, //
+apathetic, unenergetic: //
+	Mara overcomes him //
+	as the wind, a weak tree.
 
-### 8
+**[JER]** If you stay focused on pleasant things, uncontrolled in your senses, immoderate in diet, idle and lacking energy, you will certainly be overwhelmed by Mara (temptation), just as the wind uproots a weak tree.
 
-**[PALI]**
+### 8 Mahakalatthera Vatthu
+
+**[PALI]** Asubhanupassim viharantam //
+indriyesu susamvutam //
+bhojanamhi ca mattannum //
+saddham2 araddhaviriyam //
+tam ve nappasahati Maro //
+vato selamva pabbatam.
 
 **[MÜLLER]** He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
 
-**[TIN]**
+**[TIN]** He who keeps his mind on the impurities (of the body), who is well-controlled in his senses and is full of faith and energy, will certainly be not overwhelmed by Mara, just as stormy winds cannot shake a mountain of rock.
 
-**[THANISSARO]**
+**[THANISSARO]** One who stays focused on the foul, //
+is restrained with regard to the senses, //
+knowing moderation in food, //
+full of conviction & energy: //
+	Mara does not overcome him //
+	as the wind, a mountain of rock.
+
+**[JER]** If you stay focused on impurities and the foul, are well controlled in your senses, moderate in diet, full of faith and energy, you will certainly not be overwhelmed by Mara (temptation), just as the wind cannot shake a mountain of rock.
 
 ### 9
 
