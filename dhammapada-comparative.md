@@ -279,116 +279,208 @@ truly deserves the ochre robe.
 
 **[JER]** If you have discarded all defilements (kilesas), are established in the precepts, endowed with self-control and truthfulness, you are truly worthy of the yellow robe.
 
-### 11
+### 11 Sariputtatthera Vatthu
 
-**[PALI]**
+**[PALI]** Asare saramatino //
+sare casaradassino //
+te saram nadhigacchanti //
+micchasankappagocara. //
 
 **[MÜLLER]** They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
 
-**[TIN]**
+**[TIN]** They take untruth for truth; they take truth for untruth; such persons can never arrive at the truth, for they hold wrong views.
 
-**[THANISSARO]**
+**[THANISSARO]** Those who regard //
+non-essence as essence //
+and see essence as non-, //
+don't get to the essence, //
+	ranging about in wrong resolves.
 
-### 12
 
-**[PALI]**
+### 12 Sariputtatthera Vatthu
+
+**[PALI]** Saranca sarato natva //
+asaranca adhigacchanti //
+te saram adhigacchanti //
+sammasankappagocara.
 
 **[MÜLLER]** They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
 
-**[TIN]**
+**[TIN]** They take truth for truth; they take untruth for untruth; such persons arrive at the truth, for they hold right views.
 
-**[THANISSARO]**
+**[THANISSARO]** But those who know //
+essence as essence, //
+and non-essence as non-, //
+get to the essence, //
+	ranging about in right resolves.
 
-### 13
 
-**[PALI]**
+### 13 Nandatthera Vatthu
+
+**[PALI]** Yatha agaram ducchannam //
+vutthi samativijjhati //
+evam abhavitam cittam //
+rago samativijjhati.
 
 **[MÜLLER]** As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
 
-**[TIN]**
+**[TIN]** Just as rain penetrates a badly-roofed house, so also, passion (raga) penetrates a mind not cultivated in Tranquillity and Insight Development (Samatha and Vipassana).
 
-**[THANISSARO]**
+**[THANISSARO]** As rain seeps into //
+an ill-thatched hut, //
+so passion, //
+	the undeveloped mind.
 
-### 14
+### 14 Nandatthera Vatthu
 
-**[PALI]**
+**[PALI]** Yatha agaram suchannam //
+vutthi na samativijjhati //
+evam subhavitam cittam //
+rago na samativijjhati.
 
 **[MÜLLER]** As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
 
-**[TIN]**
+**[TIN]** Just as rain cannot penetrate a well-roofed house, so also, passion (raga) cannot penetrate a mind well-cultivated in Tranquillity and Insight Development (Samatha and Vipassana).
 
-**[THANISSARO]**
+**[THANISSARO]** As rain doesn't seep into //
+a well-thatched hut, //
+so passion does not, //
+	the well-developed mind.
 
-### 15
 
-**[PALI]**
+### 15 Cundasukarika Vatthu
+
+**[PALI]** Idha socati pecca socati //
+papakari ubhayattha socati //
+so socati so vihannati //
+disva kammakilitthamattano.
 
 **[MÜLLER]** The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
 
-**[TIN]**
+**[TIN]** Here he grieves, hereafter he grieves; the evil-doer grieves in both existences. He grieves and he suffers anguish when he sees the depravity of his own deeds.
 
-**[THANISSARO]**
+**[THANISSARO]** Here	he grieves //
+	he grieves	hereafter. //
+In both worlds //
+the wrong-doer grieves. //
+He grieves, he's afflicted, //
+seeing the corruption //
+	of his deeds.
 
-### 16
+### 16 Dhammika-upasaka Vatthu
 
-**[PALI]**
+**[PALI]** Idha modati pecca modati //
+katapunno ubhayattha modati //
+so modati so pamodati //
+disva kammavisuddhimattano.
 
 **[MÜLLER]** The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
 
-**[TIN]**
+**[TIN]** Here he rejoices, hereafter he rejoices; one who performed meritorious deeds rejoices in both existences. He rejoices and greatly rejoices when he sees the purity of his own deeds.
 
-**[THANISSARO]**
+**[THANISSARO]** Here	he rejoices //
+	he rejoices	hereafter. //
+In both worlds //
+the merit-maker rejoices. //
+He rejoices, is jubilant, //
+seeing the purity //
+	of his deeds.
 
-### 17
+### 17 Devadatta Vatthu
 
-**[PALI]**
+**[PALI]** Idha tappati pecca tappati //
+papakari ubhayattha tappati //
+papam me katanti tappati //
+bhiyyo tappati duggatim1 gato.
 
 **[MÜLLER]** The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
 
-**[TIN]**
+**[TIN]** Here he is tormented, hereafter he is tormented; the evil-doer is tormented in both existences. He is tormented, and he laments: "Evil have I done." He is even more tormented when he is reborn in one of the lower worlds (Apaya).
 
-**[THANISSARO]**
+**[THANISSARO]** Here	he's tormented //
+	he's tormented  hereafter. //
+In both worlds //
+the wrong-doer's tormented. //
+He's tormented at the thought, //
+	'I've done wrong.' //
+Having gone to a bad destination, //
+he's tormented //
+	all the more.
 
-### 18
+### 18 Sumanadevi Vatthu
 
-**[PALI]**
+**[PALI]** Idha nandati pecca nandati //
+katapunno ubhayattha nandati //
+punnam me katanti nandati //
+bhiyyo nandati suggatim gato.
 
 **[MÜLLER]** The virtuous man is happy in this world, and he is happy in the
   next; he is happy in both. He is happy when he thinks of the good he has
   done; he is still more happy when going on the good path.
 
-**[TIN]**
+**[TIN]** Here he is happy, hereafter he is happy; one who performs meritorious deeds is happy in both existences. Happily he exclaims: I have done meritorious deeds." He is happier still when he is reborn in a higher world (suggati).
 
-**[THANISSARO]**
+**[THANISSARO]** Here	he delights //
+	he delights	hereafter. //
+In both worlds //
+the merit-maker delights. //
+He delights at the thought, //
+	'I've made merit.' //
+Having gone to a good destination, //
+he delights //
+	all the more.
 
-### 19
+### 19 Dvesahayakabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Bahumpi ce samhita bhasamano //
+na takkaro hoti naro pamatto //
+gopova gavo ganayam paresam //
+na bhagava samannassa hoti.
 
 **[MÜLLER]** The thoughtless man, even if he can recite a large portion (of the
   law), but is not a doer of it, has no share in the priesthood, but is
   like a cowherd counting the cows of others.
 
-**[TIN]**
+**[TIN]** Though he recites much the Sacred Texts (Tipitaka), but is negligent and does not practise according to the Dhamma, like a cowherd who counts the cattle of others, he has no share in the benefits of the life of a bhikkhu (i.e., Magga-phala).
 
-**[THANISSARO]**
+**[THANISSARO]** If he recites many teachings, but //
+	— heedless man — //
+doesn't do what they say, //
+like a cowherd counting the cattle of //
+	       others, //
+he has no share in the contemplative life.
 
-  ## 20
+### 20 Dvesahayakabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Appampi ce samhita bhasamano //
+dhammassa hoti anudhammacari //
+raganca dosanca pahaya moham //
+sammappajano suvimuttacitto1 //
+anupadiyano idha va haram va //
+sa bhagava samannassa hoti.2
 
 **[MÜLLER]** The follower of the law, even if he can recite only a small portion
   (of the law), but, having forsaken passion and hatred and foolishness,
   possesses true knowledge and serenity of mind, he, caring for nothing in
   this world or that to come, has indeed a share in the priesthood.
 
-  ## 2. On Earnestness
-
-**[TIN]**
+**[TIN]** Though he recites only a little of the Sacred Texts (Tipitaka), but practises according to the Dhamma, eradicating passion, ill will and ignorance, clearly comprehending the Dhamma, with his mind freed from moral defilements and no longer clinging to this world or to the next, he shares the benefits of the life of a bhikkhu (i.e., Magga-phala).
 
 **[THANISSARO]**
+If he recites next to nothing //
+but follows the Dhamma //
+in line with the Dhamma; //
+	abandoning passion, //
+	   aversion, delusion; //
+	alert, //
+	his mind well-released, //
+	   not clinging //
+	either here or hereafter: //
+he has his share in the contemplative life.
 
-  ## 21
+## 2. On Earnestness
+
+## 21
 
 **[PALI]**
 
