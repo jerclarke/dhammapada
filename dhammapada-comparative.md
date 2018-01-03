@@ -284,7 +284,7 @@ truly deserves the ochre robe.
 **[PALI]** Asare saramatino //
 sare casaradassino //
 te saram nadhigacchanti //
-micchasankappagocara. //
+micchasankappagocara.
 
 **[MÜLLER]** They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
 
@@ -296,6 +296,9 @@ and see essence as non-, //
 don't get to the essence, //
 	ranging about in wrong resolves.
 
+**[JER]** Those who treat the non-essential as essential, and the essential as non-essential, will never reach the true essence, because they hold wrong views.
+
+***Editor's note on 11-12***: **[TIN]** [points out](http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=011) that `sare` and related words literally mean "essence" (which **[THANISSARO]** uses directly), but imply "truth" as used by **[MÜLLER]** and **[TIN]**. The wordplay of the original Pali seems very much lost in the English version when "truth/untruth" is used throughout, rather than having 5 different variations on the theme as Pali does (sare, saramatino, asare, casaradassino, saram). It seems that as translated by **[MÜLLER]**  and **[TIN]** it becomes logically meaningless: If you believe "untruth" you will not find "truth". Thus I chose to use the "essence" theme from **[THANISSARO]**, contrasting "essential", "non-essential" and "true essence". I hope this helps readers appreciate the subtlety of the original while maintaing enough of it's literal meaning to be coherent.
 
 ### 12 Sariputtatthera Vatthu
 
@@ -314,6 +317,7 @@ and non-essence as non-, //
 get to the essence, //
 	ranging about in right resolves.
 
+**[JER]** Those who treat the non-essential as essential, and the essential as non-essential, will arrive at true essence, because they hold right views.
 
 ### 13 Nandatthera Vatthu
 
