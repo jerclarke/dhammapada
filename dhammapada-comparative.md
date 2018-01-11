@@ -298,7 +298,7 @@ don't get to the essence, //
 
 **[JER]** Those who treat the non-essential as essential, and the essential as non-essential, will never reach the true essence, because they hold wrong views.
 
-***Editor's note on 11-12***: **[TIN]** [points out](http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=011) that `sare` and related words literally mean "essence" (which **[THANISSARO]** uses directly), but imply "truth" as used by **[MÜLLER]** and **[TIN]**. The wordplay of the original Pali seems very much lost in the English version when "truth/untruth" is used throughout, rather than having 5 different variations on the theme as Pali does (sare, saramatino, asare, casaradassino, saram). It seems that as translated by **[MÜLLER]**  and **[TIN]** it becomes logically meaningless: If you believe "untruth" you will not find "truth". Thus I chose to use the "essence" theme from **[THANISSARO]**, contrasting "essential", "non-essential" and "true essence". I hope this helps readers appreciate the subtlety of the original while maintaing enough of it's literal meaning to be coherent.
+***Editor's note on 11-12***: **[TIN]** [points out](http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=011) that `sare` and related words literally mean "essence" (which **[THANISSARO]** uses directly), but imply "truth" as used by **[MÜLLER]** and **[TIN]**. The wordplay of the original Pali seems very much lost in the English version when "truth/untruth" is used throughout, rather than having 5 different variations on the theme as Pali does (sare, saramatino, asare, casaradassino, saram). It seems that as translated by **[MÜLLER]**  and **[TIN]** it becomes logically meaningless: If you believe "untruth" you will not find "truth". Thus I chose to use the "essence" theme from **[THANISSARO]**, contrasting "essential", "non-essential" and "true essence". I hope this helps readers appreciate the subtlety of the original while maintaining enough of it's literal meaning to be coherent.
 
 ### 12 Sariputtatthera Vatthu
 
@@ -335,6 +335,8 @@ an ill-thatched hut, //
 so passion, //
 	the undeveloped mind.
 
+**[JER]** Just as rain penetrates an ill-thatched house, passion penetrates an undeveloped mind.
+
 ### 14 Nandatthera Vatthu
 
 **[PALI]** Yatha agaram suchannam //
@@ -351,6 +353,7 @@ a well-thatched hut, //
 so passion does not, //
 	the well-developed mind.
 
+**[JER]** Just as rain cannot penetrate a well-thatched house, passion cannot penetrate a well-developed mind.
 
 ### 15 Cundasukarika Vatthu
 
@@ -1962,17 +1965,43 @@ he has his share in the contemplative life.
 **[MÜLLER]** A man who has learnt little, grows old like an ox; his flesh grows,
   but his knowledge does not grow.
 
-**153  154** Looking for the maker of this tabernacle, I shall have to run
-  through a course of many births, so long as I do not find (him); and
-  painful is birth again and again. But now, maker of the tabernacle, thou
-  hast been seen; thou shalt not make up this tabernacle again. All thy
-  rafters are broken, thy ridge-pole is sundered; the mind, approaching
-  the Eternal (visankhara, nirvana), has attained to the extinction of all
-  desires.
+### 153 Udana Vatthu
 
-**[TIN]**
+**[PALI]** Anekajatisamsaram //
+sandhavissam anibbisam//
+gahakaram gavesanto //
+dukkha jati punappunam.
 
-**[THANISSARO]**
+**[MÜLLER]** Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again.
+
+**[TIN]** I, who have been seeking the builder of this house (body), failing to attain Enlightenment (Bodhi nana or Sabbannuta nana) which would enable me to find him, have wandered through innumerable births in samsara. To be born again and again is, indeed, dukkha!
+
+**[THANISSARO]** Through the round of many births I roamed //
+	without reward, //
+	without rest, //
+seeking the house-builder. //
+	Painful is birth //
+	again & again.
+
+### 154 Udana Vatthu
+
+**[PALI]** Gahakaraka ditthosi //
+puna geham na kahasi //
+sabba te phasuka bhagga //
+gahakotam visankhatam //
+visankharagatam cittam //
+tanhanam khayamajjhaga.
+
+**[MÜLLER]** But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
+
+**[TIN]**  Oh house-builder! You are seen, you shall build no house (for me) again. All your rafters are broken, your roof-tree is destroyed. My mind has reached the unconditioned (i.e., Nibbana); the end of craving (Arahatta Phala) has been attained.
+
+**[THANISSARO]** House-builder, you're seen! //
+You will not build a house again. //
+All your rafters broken, //
+the ridge pole dismantled, //
+immersed in dismantling, the mind //
+has attained to the end of craving.
 
 ### 155
 
@@ -2128,25 +2157,38 @@ he has his share in the contemplative life.
 
 ### 168
 
-**[PALI]**
+**[PALI]** Uttitthe nappamajjeyya //
+dhammam sucaritam care //
+dhammacari sukham seti //
+asmim loke paramhi ca.
 
-**[MÜLLER]** Rouse thyself! do not be idle! Follow the law of virtue! The
-  virtuous rests in bliss in this world and in the next.
+**[MÜLLER]** Rouse thyself! do not be idle! Follow the law of virtue! The virtuous rests in bliss in this world and in the next.
 
-**[TIN]**
+**[TIN]** Do not neglect the duty of going on alms-round; observe proper practice (in going on alms-round). One who observes proper practice lives happily both in this world and in the next.
 
-**[THANISSARO]**
+**[THANISSARO]** Get up! Don't be heedless. //
+Live the Dhamma well. //
+One who lives the Dhamma //
+	sleeps with ease //
+in this world & the next.
 
 ### 169
 
-**[PALI]**
+**[PALI]** Dhammam care sucaritarm //
+na nam duccaritam care //
+dhammacari sukham seti //
+asmim loke paramhi ca.
 
 **[MÜLLER]** Follow the law of virtue; do not follow that of sin. The virtuous
   rests in bliss in this world and in the next.
 
-**[TIN]**
+**[TIN]** Observe proper practice (in going on alms-round); do not observe improper practice. One who observes proper practice lives happily both in this world and in the next.
 
-**[THANISSARO]**
+**[THANISSARO]** Live the Dhamma well. //
+Don't live it badly. //
+One who lives the Dhamma //
+	sleeps with ease //
+in this world & the next.
 
 ### 170
 
@@ -2302,14 +2344,20 @@ he has his share in the contemplative life.
 
 ### 183
 
-**[PALI]**
+**[PALI]** Sabbapapassa akaranam //
+ku salassa upasampada //
+sacittapariyodapanam //
+etam buddhana sasanam.
 
-**[MÜLLER]** Not to commit any sin, to do good, and to purify one's mind, that
-  is the teaching of (all) the Awakened.
+**[MÜLLER]** Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened.
 
-**[TIN]**
+**[TIN]** Not to do evil, to cultivate merit, to purify one's mind - this is the Teaching of the Buddhas.
 
-**[THANISSARO]**
+**[THANISSARO]** The non-doing   of any evil, //
+the performance     of what's skillful, //
+the cleansing   of one's own mind: //
+	this is the teaching //
+	of the Awakened.
 
 ### 184
 
