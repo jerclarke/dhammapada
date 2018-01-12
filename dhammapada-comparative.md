@@ -317,7 +317,7 @@ and non-essence as non-, //
 get to the essence, //
 	ranging about in right resolves.
 
-**[JER]** Those who treat the non-essential as essential, and the essential as non-essential, will arrive at true essence, because they hold right views.
+**[JER]** Those who treat the essential as essential, and the non-essential as non-essential, will arrive at true essence, because they hold right views.
 
 ### 13 Nandatthera Vatthu
 
