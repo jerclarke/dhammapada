@@ -374,6 +374,10 @@ He grieves, he's afflicted, //
 seeing the corruption //
 	of his deeds.
 
+**[JER]** They grieve in this world and they grieve in the next. Wrong doers grieve in both. They grieve and they suffer, having seen the impurity of their actions.
+
+***Editor's note on 15***: 'kammakilitthamattano' kamma (action) + kiliṭṭha (soiled, stained, impure) = "impurity of their actions".
+
 ### 16 Dhammika-upasaka Vatthu
 
 **[PALI]** Idha modati pecca modati //
@@ -392,6 +396,8 @@ the merit-maker rejoices. //
 He rejoices, is jubilant, //
 seeing the purity //
 	of his deeds.
+
+**[JER]** They rejoice in this world and they rejoice in the next. Good doers rejoice in both. They rejoice and are glad, having seen the purity of their actions.
 
 ### 17 Devadatta Vatthu
 
