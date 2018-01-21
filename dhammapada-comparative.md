@@ -427,9 +427,7 @@ katapunno ubhayattha nandati //
 punnam me katanti nandati //
 bhiyyo nandati suggatim gato.
 
-**[MÜLLER]** The virtuous man is happy in this world, and he is happy in the
-  next; he is happy in both. He is happy when he thinks of the good he has
-  done; he is still more happy when going on the good path.
+**[MÜLLER]** The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.
 
 **[TIN]** Here he is happy, hereafter he is happy; one who performs meritorious deeds is happy in both existences. Happily he exclaims: I have done meritorious deeds." He is happier still when he is reborn in a higher world (suggati).
 
@@ -450,9 +448,7 @@ na takkaro hoti naro pamatto //
 gopova gavo ganayam paresam //
 na bhagava samannassa hoti.
 
-**[MÜLLER]** The thoughtless man, even if he can recite a large portion (of the
-  law), but is not a doer of it, has no share in the priesthood, but is
-  like a cowherd counting the cows of others.
+**[MÜLLER]** The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.
 
 **[TIN]** Though he recites much the Sacred Texts (Tipitaka), but is negligent and does not practise according to the Dhamma, like a cowherd who counts the cattle of others, he has no share in the benefits of the life of a bhikkhu (i.e., Magga-phala).
 
@@ -468,14 +464,11 @@ he has no share in the contemplative life.
 **[PALI]** Appampi ce samhita bhasamano //
 dhammassa hoti anudhammacari //
 raganca dosanca pahaya moham //
-sammappajano suvimuttacitto1 //
+sammappajano suvimuttacitto //
 anupadiyano idha va haram va //
-sa bhagava samannassa hoti.2
+sa bhagava samannassa hoti.
 
-**[MÜLLER]** The follower of the law, even if he can recite only a small portion
-  (of the law), but, having forsaken passion and hatred and foolishness,
-  possesses true knowledge and serenity of mind, he, caring for nothing in
-  this world or that to come, has indeed a share in the priesthood.
+**[MÜLLER]** The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.
 
 **[TIN]** Though he recites only a little of the Sacred Texts (Tipitaka), but practises according to the Dhamma, eradicating passion, ill will and ignorance, clearly comprehending the Dhamma, with his mind freed from moral defilements and no longer clinging to this world or to the next, he shares the benefits of the life of a bhikkhu (i.e., Magga-phala).
 
