@@ -420,6 +420,8 @@ Having gone to a bad destination, //
 he's tormented //
 	all the more.
 
+**[JER]** They are tormented in this world and they are tormented in the next. Wrong doers are tormented in both. They are tormented at the thought of the wrong they have done, and tormented all the more when they arrive at a bad destination.
+
 ### 18 Sumanadevi Vatthu
 
 **[PALI]** Idha nandati pecca nandati //
@@ -441,6 +443,8 @@ Having gone to a good destination, //
 he delights //
 	all the more.
 
+**[JER]** They delight in this world and they delight in the next. Good doers delight in both. They delight at the thought of the good they have done, and delight all the more when they arrive at a good destination.
+
 ### 19 Dvesahayakabhikkhu Vatthu
 
 **[PALI]** Bahumpi ce samhita bhasamano //
@@ -458,6 +462,8 @@ doesn't do what they say, //
 like a cowherd counting the cattle of //
 	       others, //
 he has no share in the contemplative life.
+
+**[JER]** One who can recite many teachings, but is heedless, and doesn't do what they say, is like a cowherd who counts the cows of others, they do not share in the benefits of monastic life.
 
 ### 20 Dvesahayakabhikkhu Vatthu
 
@@ -483,6 +489,8 @@ in line with the Dhamma; //
 	   not clinging //
 	either here or hereafter: //
 he has his share in the contemplative life.
+
+**[JER]** One who can recite few teachings, but follows the Dhamma -- letting go of passion, aversion and delusion, with a mind free of clinging to this world or the next -- shares in the benefits of monastic life.
 
 ## 2. On Earnestness
 
