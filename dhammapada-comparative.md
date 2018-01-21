@@ -493,53 +493,79 @@ he has his share in the contemplative life.
 **[JER]** One who can recite few teachings, but follows the Dhamma -- letting go of passion, aversion and delusion, with a mind free of clinging to this world or the next -- shares in the benefits of monastic life.
 
 ## 2. On Earnestness
+ * **[THANISSARO]** Heedfulness
 
-## 21
+## 21 Samavati Vatthu
 
-**[PALI]**
+**[PALI]** Appamado amatapadam //
+pamado maccuno padam //
+appamatta na miyanti //
+ye pamatta yatha mata.
 
-**[MÜLLER]** Earnestness is the path of immortality (Nirvana), thoughtlessness
-  the path of death. Those who are in earnest do not die, those who are
-  thoughtless are as if dead already.
+**[MÜLLER]** Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.
 
-**[TIN]**
+**[TIN]** Mindfulness is the way to the Deathless (Nibbana); unmindfulness is the way to Death. Those who are mindful do not die; those who are not mindful are as if already dead.
 
-**[THANISSARO]**
+**[THANISSARO]** Heedfulness:	the path to the Deathless. //
+Heedlessness:	the path to death. //
+The heedful do not die. //
+The heedless are as if //
+	already dead.
 
-### 22
+### 22 Samavati Vatthu
 
-**[PALI]**
+**[PALI]** Evam visesato natva //
+appamadamhi pandita //
+appamade pamodanti //
+ariyanam gocare rata.
 
-**[MÜLLER]** Those who are advanced in earnestness, having understood this
-  clearly, delight in earnestness, and rejoice in the knowledge of the
-  Ariyas (the elect).
+**[MÜLLER]** Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).
 
-**[TIN]**
+**[TIN]** Fully comprehending this, the wise, who are mindful, rejoice in being mindful and find delight in the domain of the Noble Ones (Ariyas).
 
-**[THANISSARO]**
+**[THANISSARO]** Knowing this as a true distinction, //
+those wise in heedfulness //
+rejoice in heedfulness, //
+enjoying the range of the noble ones.
 
-### 23
+### 23 Samavati Vatthu
 
-**[PALI]**
+**[PALI]** Te jhayino satatika //
+ni ccam dalhaparakkama //
+phusanti dhira nibbanam //
+yogakkhemam anuttaram.
 
-**[MÜLLER]** These wise people, meditative, steady, always possessed of strong
-  powers, attain to Nirvana, the highest happiness.
+**[MÜLLER]** These wise people, meditative, steady, always possessed of strongs powers, attain to Nirvana, the highest happiness.
 
-**[TIN]**
+**[TIN]** The wise, constantly cultivating Tranquillity and Insight Development Practice, being ever mindful and steadfastly striving, realize Nibbana: Nibbana, which is free from the bonds of yoga; Nibbana, the Incomparable!
 
-**[THANISSARO]**
+**[THANISSARO]** The enlightened, constantly //
+	absorbed in jhana, //
+	persevering, //
+	firm in their effort: //
+they touch Unbinding, //
+the unexcelled rest //
+	from the yoke.
 
-### 24
+### 24 Kumbhaghosakasetthi Vatthu
 
-**[PALI]**
+**[PALI]** Utthanavato satimato //
+sucikammassa nisammakarino //
+sannatassa dhammajivino //
+appamattassa yaso bhivaddhati.
 
-**[MÜLLER]** If an earnest person has roused himself, if he is not forgetful,
-  if his deeds are pure, if he acts with consideration, if he restrains
-  himself, and lives according to law,--then his glory will increase.
+**[MÜLLER]** If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.
 
-**[TIN]**
+**[TIN]** If a person is energetic, mindful, pure in his thought, word and deed, and if he does everything with care and consideration, restrains his senses, earns his living according to the Law (Dhamma) and is not unheedful, then, the fame and fortune of that mindful person steadily increase.
 
-**[THANISSARO]**
+**[THANISSARO]** Those with initiative, //
+	mindful, //
+	clean in action, //
+acting with due consideration, //
+	heedful, restrained, //
+living the Dhamma: //
+	their glory //
+	grows.
 
 ### 25
 
