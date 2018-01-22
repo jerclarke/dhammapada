@@ -29,37 +29,37 @@ Jer Clarke
 **Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[THANISSARO]** translate them into english.
 
 
-| Chapter | PALI (TIN)      | MÜLLER                    | THANISSARO
-| ------- | --------------- | ------------------------- | ----------
-|       1 | Yamakavagga     | The Twin Verses           | Pairs
-|       2 | Appamadavagga   | On Earnestness            | Heedfulness
-|       3 | Cittavagga      | Thought                   | The Mind
-|       4 | Pupphavagga     | Flowers                   | Blossoms
-|       5 | Balavagga       | The Fool                  | Fools
-|       6 | Panditavagga    | The Wise Man (Pandita)    | The Wise
-|       7 | Arahantavagga   | The Venerable (Arhat)     | Arahants
-|       8 | Sahassavagga    | The Thousands             | Thousands
-|       9 | Papavagga       | Evil                      | Evil
-|      10 | Dandavagga      | Punishment                | The Rod
-|      11 | Jaravagga       | Old Age                   | Aging
-|      12 | Attavagga       | Self                      | Self
-|      13 | Lokavagga       | The World                 | Worlds
-|      14 | Buddhavagga     | The Buddha (the Awakened) | Awakened
-|      15 | Sukhavagga      | Happiness                 | Happy
-|      16 | Piyavagga       | Pleasure                  | Dear Ones
-|      17 | Kodhavagga      | Anger                     | Anger
-|      18 | Malavagga       | Impurity                  | Impurities
-|      19 | Dhammatthavagga | The Just                  | The Judge
-|      20 | Maggavagga      | The Way                   | The Path
-|      21 | Pakinnakavagga  | Miscellaneous             | Miscellany
-|      22 | Nirayavagga     | The Downward Course       | Hell
-|      23 | Nagavagga       | The Elephant              | Elephants
-|      24 | Tanhavagga      | Thirst                    | Craving
-|      25 | Bhikkhuvagga    | The Bhikshu (Mendicant)   | Monks
-|      26 | Brahmanavagga   | The Brahmana (Arhat)      | Brahmans
+| Chapter (verses)      | PALI (TIN)      | MÜLLER                    | THANISSARO   | JER
+| --------------------- | --------------- | ------------------------- | ------------ | -----------
+| [1](#c-01) (1-20)     | Yamakavagga     | The Twin Verses           | Pairs        | Pairs
+| [2](#c-02) (21-31)    | Appamadavagga   | On Earnestness            | Heedfulness  | Heedfulness
+| [3](#c-03) (33-43)    | Cittavagga      | Thought                   | The Mind     | Mind
+| [4](#c-04) (44-59)    | Pupphavagga     | Flowers                   | Blossoms     | TBD
+| [5](#c-05) (60-75)    | Balavagga       | The Fool                  | Fools        | Fools
+| [6](#c-06) (76-89)    | Panditavagga    | The Wise Man (Pandita)    | The Wise     | The Wise
+| [7](#c-07) (90-99)    | Arahantavagga   | The Venerable (Arhat)     | Arahants     | The Venerable
+| [8](#c-08) (100-115)  | Sahassavagga    | The Thousands             | Thousands    | Thousands
+| [9](#c-09) (116-128)  | Papavagga       | Evil                      | Evil         | Evil
+| [10](#c-10) (129-145) | Dandavagga      | Punishment                | The Rod      | Punishment
+| [11](#c-11) (146-156) | Jaravagga       | Old Age                   | Aging        | Aging
+| [12](#c-12) (157-166) | Attavagga       | Self                      | Self         | Self
+| [13](#c-13) (167-178) | Lokavagga       | The World                 | Worlds       | Worlds
+| [14](#c-14) (179-196) | Buddhavagga     | The Buddha (the Awakened) | Awakened     | The Awakened
+| [15](#c-15) (197-208) | Sukhavagga      | Happiness                 | Happy        | Happiness
+| [16](#c-16) (209-220) | Piyavagga       | Pleasure                  | Dear Ones    | TBD
+| [17](#c-17) (221-234) | Kodhavagga      | Anger                     | Anger        | Anger
+| [18](#c-18) (235-255) | Malavagga       | Impurity                  | Impurities   | Impurity
+| [19](#c-19) (256-272) | Dhammatthavagga | The Just                  | The Judge    | TBD
+| [20](#c-20) (273-289) | Maggavagga      | The Way                   | The Path     | The Path
+| [21](#c-21) (290-305) | Pakinnakavagga  | Miscellaneous             | Miscellany   | Miscellany
+| [22](#c-22) (306-319) | Nirayavagga     | The Downward Course       | Hell         | TBD
+| [23](#c-23) (320-333) | Nagavagga       | The Elephant              | Elephants    | Elephants
+| [24](#c-24) (334-359) | Tanhavagga      | Thirst                    | Craving      | Craving
+| [25](#c-25) (360-382) | Bhikkhuvagga    | The Bhikshu (Mendicant)   | Monks        | Monastics
+| [26](#c-26) (383-423) | Brahmanavagga   | The Brahmana (Arhat)      | Brahmans     | TBD
 
 
-## 1. Yamakavagga
+## <a name="c-01"></a> 1. Yamakavagga
 * **[MÜLLER]** The Twin-Verses
 * **[TIN]** Yamakavagga
 * **[THANISSARO]** Pairs
@@ -492,10 +492,10 @@ he has his share in the contemplative life.
 
 **[JER]** One who can recite few teachings, but follows the Dhamma -- letting go of passion, aversion and delusion, with a mind free of clinging to this world or the next -- shares in the benefits of monastic life.
 
-## 2. On Earnestness
+## <a name="c-02"></a> 2. On Earnestness
  * **[THANISSARO]** Heedfulness
 
-## 21 Samavati Vatthu
+### 21 Samavati Vatthu
 
 **[PALI]** Appamado amatapadam //
 pamado maccuno padam //
@@ -655,7 +655,7 @@ living the Dhamma: //
   fear on thoughtlessness, cannot fall away (from his perfect state)--he
   is close upon Nirvana.
 
-  ## 3. Thought
+## <a name="c-03"></a>3. Thought
 
 **[TIN]**
 
@@ -785,7 +785,7 @@ living the Dhamma: //
 **[MÜLLER]** Not a mother, not a father will do so much, nor any other relative;
   a well-directed mind will do us greater service.
 
-  ## 4. Flowers
+## <a name="c-04"></a> 4. Flowers
 
 **[TIN]**
 
@@ -956,7 +956,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 5. The Fool
+## <a name="c-05"></a> 5. The Fool
 
 
 ### 60
@@ -1143,7 +1143,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 6. The Wise Man (Pandita)
+## <a name="c-06"></a> 6. The Wise Man (Pandita)
 
 ### 76
 
@@ -1293,7 +1293,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 7. The Venerable (Arhat).
+## <a name="c-07"></a> 7. The Venerable (Arhat).
 
 ### 90
 
@@ -1412,7 +1412,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 8. The Thousands
+## <a name="c-08"></a> 8. The Thousands
 
 ### 100
 
@@ -1581,7 +1581,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 9. Evil
+## <a name="c-09"></a> 9. Evil
 
 ### 116
 
@@ -1726,7 +1726,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 10. Punishment
+## <a name="c-10"></a> 10. Punishment
 
 ### 129
 
@@ -1921,7 +1921,7 @@ living the Dhamma: //
 
 **[THANISSARO]**
 
-  ## 11. Old Age
+## <a name="c-11"></a> 11. Old Age
 
 ### 146
 
@@ -2058,7 +2058,7 @@ has attained to the end of craving.
 
 **[THANISSARO]**
 
-  ## 12. Self
+## <a name="c-12"></a> 12. Self
 
 ### 157
 
@@ -2175,7 +2175,7 @@ has attained to the end of craving.
 
 **[THANISSARO]**
 
-  ## 13. The World
+## <a name="c-13"></a> 13. The World
 
 ### 167
 
@@ -2325,7 +2325,7 @@ in this world & the next.
 
 **[THANISSARO]**
 
-  ## 14. The Buddha (The Awakened)
+## <a name="c-14"></a> 14. The Buddha (The Awakened)
 
 ### 179
 
@@ -2522,7 +2522,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 15. Happiness
+## <a name="c-15"></a> 15. Happiness
 
 ### 197
 
@@ -2660,7 +2660,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 16. Pleasure
+## <a name="c-16"></a> 16. Pleasure
 
 ### 209
 
@@ -2798,7 +2798,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 17. Anger
+## <a name="c-17"></a> 17. Anger
 
 ### 221
 
@@ -2940,7 +2940,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 18. Impurity
+## <a name="c-18"></a> 18. Impurity
 
 ### 235
 
@@ -3188,7 +3188,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 19. The Just
+## <a name="c-19"></a> 19. The Just
 
 **256 257** A man is not just if he carries a matter by violence; no, he
   who distinguishes both right and wrong, who is learned and leads others,
@@ -3330,7 +3330,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 20. The Way
+## <a name="c-20"></a> 20. The Way
 
 ### 273
 
@@ -3529,7 +3529,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 21. Miscellaneous
+## <a name="c-21"></a> 21. Miscellaneous
 
 ### 290
 
@@ -3715,7 +3715,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 22. The Downward Course
+## <a name="c-22"></a> 22. The Downward Course
 
 ### 306
 
@@ -3884,7 +3884,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 23. The Elephant
+## <a name="c-23"></a> 23. The Elephant
 
 ### 320
 
@@ -4051,7 +4051,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 24. Thirst
+## <a name="c-24"></a> 24. Thirst
 
 ### 334
 
@@ -4363,7 +4363,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 25. The Bhikshu (Mendicant)
+## <a name="c-25"></a> 25. The Bhikshu (Mendicant)
 
 ### 360
 
@@ -4630,7 +4630,7 @@ the cleansing   of one's own mind: //
 
 **[THANISSARO]**
 
-  ## 26. The Brahmana (Arhat)
+## <a name="c-26"></a> 26. The Brahmana (Arhat)
 
 ### 383
 
