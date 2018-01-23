@@ -575,7 +575,12 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Through initiative, heedfulness,
+restraint, & self-control,
+the wise would make
+	   an island
+no flood
+can submerge.
 
 ### 26
 
@@ -586,7 +591,11 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** They're addicted to heedlessness
+ — dullards, fools —
+while one who is wise
+cherishes heedfulness
+as his highest wealth.
 
 ### 27
 
@@ -597,7 +606,12 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Don't give way to heedlessness
+	or to intimacy
+	with sensual delight —
+for a heedful person,
+absorbed in jhana,
+attains an abundance of ease. 
 
 ### 28
 
@@ -610,7 +624,18 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** When the wise person drives out
+	heedlessness
+	with heedfulness,
+having climbed the high tower
+of discernment,
+	sorrow-free,
+he observes the sorrowing crowd —
+as the enlightened man,
+having scaled
+	a summit,
+the fools on the ground below.
+
 
 ### 29
 
@@ -621,7 +646,11 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Heedful among the heedless,
+wakeful among those asleep,
+just as a fast horse advances,
+leaving the weak behind:
+	so the wise.
 
 ### 30
 
@@ -632,7 +661,12 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Through heedfulness, Indra won
+to lordship over the gods.
+Heedfulness is praised,
+heedlessness censured —
+	always.
+
 
 ### 31
 
@@ -644,7 +678,11 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** The monk delighting in heedfulness,
+seeing danger in heedlessness,
+advances like a fire,
+burning fetters
+	great & small.
 
 ### 32
 
@@ -654,13 +692,17 @@ living the Dhamma: //
   fear on thoughtlessness, cannot fall away (from his perfect state)--he
   is close upon Nirvana.
 
+**[TIN]**
+
+**[THANISSARO]** The monk delighting in heedfulness,
+seeing danger in heedlessness
+ — incapable of falling back —
+stands right on the verge
+	of Unbinding.
+	
 ## <a name="c-03"></a>3. Thought
 
 [↩︎ Back to chapter index](#toc)
-
-**[TIN]**
-
-**[THANISSARO]**
 
 ### 33
 
@@ -672,7 +714,13 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Quivering, wavering,
+hard to guard,
+to hold in check:
+	the mind.
+The sage makes it straight —
+like a fletcher,
+the shaft of an arrow.
 
 ### 34
 
@@ -684,7 +732,11 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Like a fish
+pulled from its home in the water
+& thrown on land:
+this mind flips & flaps about
+	to escape Mara's sway.
 
 ### 35
 
@@ -695,7 +747,13 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Hard to hold down,
+	nimble,
+alighting wherever it likes:
+	the mind.
+Its taming is good.
+The mind well-tamed
+	brings ease.
 
 ### 36
 
@@ -707,7 +765,13 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** So hard to see,
+so very, very subtle,
+alighting wherever it likes:
+	the mind.
+The wise should guard it.
+The mind protected
+	brings ease.
 
 ### 37
 
@@ -719,7 +783,14 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Wandering far,
+going alone,
+bodiless,
+lying in a cave:
+	the mind.
+Those who restrain it:
+	from Mara's bonds
+	they'll be freed.
 
 ### 38
 
@@ -730,7 +801,11 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** For a person of unsteady mind,
+not knowing true Dhamma,
+	serenity
+	set        adrift:
+discernment doesn't grow full.
 
 ### 39
 
@@ -742,7 +817,13 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** For a person of unsoddened mind,
+	       unassaulted
+awareness,
+abandoning merit & evil,
+	wakeful,
+there is no danger
+	   no fear.
 
 ### 40
 
@@ -755,7 +836,15 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Knowing this body
+	is like a clay jar,
+securing this mind
+	like a fort,
+	   attack Mara
+	with the spear of discernment,
+then guard what's won
+	without settling there,
+	without laying claim.
 
 ### 41
 
@@ -766,7 +855,12 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** All too soon, this body
+will lie on the ground
+	cast off,
+bereft of consciousness,
+like a useless scrap
+	of wood.
 
 ### 42
 
@@ -777,7 +871,12 @@ living the Dhamma: //
 
 **[TIN]**
 
-**[THANISSARO]**
+**[THANISSARO]** Whatever an enemy might do
+to an enemy,
+or a foe to a foe,
+the ill-directed mind
+can do to you
+	even worse.
 
 ### 43
 
@@ -786,13 +885,18 @@ living the Dhamma: //
 **[MÜLLER]** Not a mother, not a father will do so much, nor any other relative;
   a well-directed mind will do us greater service.
 
+**[TIN]**
+
+**[THANISSARO]** Whatever a mother, father
+or other kinsman
+might do for you,
+the well-directed mind
+can do for you
+	even better.
+
 ## <a name="c-04"></a> 4. Flowers
 
 [↩︎ Back to chapter index](#toc)
-
-**[TIN]**
-
-**[THANISSARO]**
 
 ### 44
 
