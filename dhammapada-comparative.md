@@ -566,332 +566,364 @@ living the Dhamma: //
 	their glory //
 	grows.
 
-### 25
+### 25 Culapanthaka Vatthu
 
-**[PALI]**
+**[PALI]** Utthanena' ppamadena //
+samyamena damena ca //
+dipam kayiratha medhavi //
+yam ogho nabhikirati.
 
-**[MÜLLER]** By rousing himself, by earnestness, by restraint and control, the
-  wise man may make for himself an island which no flood can overwhelm.
+**[MÜLLER]** By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.
 
-**[TIN]**
+**[TIN]** Through diligence, mindfulness, discipline (with regard to moral precepts), and control of his senses, let the man of wisdom make (of himself) an island which no flood can overwhelm.
 
-**[THANISSARO]** Through initiative, heedfulness,
-restraint, & self-control,
-the wise would make
-	   an island
-no flood
+**[THANISSARO]** Through initiative, heedfulness, //
+restraint, & self-control, //
+the wise would make //
+	   an island //
+no flood //
 can submerge.
 
-### 26
+### 26 Balanakkhattasanghuttha Vatthu
 
-**[PALI]**
+**[PALI]** Pamadamanuyuñjanti //
+bala dummedhino jana //
+appamadañca medhavi //
+dhanam setthamva rakkhati.
 
-**[MÜLLER]** Fools follow after vanity, men of evil wisdom. The wise man keeps
-  earnestness as his best jewel.
+**[MÜLLER]** Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.
 
-**[TIN]**
+**[TIN]** The foolish and the ignorant give themselves over to negligence; whereas the wise treasure mindfulness as a precious jewel.
 
-**[THANISSARO]** They're addicted to heedlessness
- — dullards, fools —
-while one who is wise
-cherishes heedfulness
+**[THANISSARO]** They're addicted to heedlessness //
+ — dullards, fools — //
+while one who is wise //
+cherishes heedfulness //
 as his highest wealth.
 
-### 27
+### Balanakkhattasanghuttha Vatthu
 
-**[PALI]**
+**[PALI]** Ma pamadamanuyuñjetha //
+ma kamaratisanthavam //
+appamatto hi jhayanto //
+pappoti vipulam sukham.
 
-**[MÜLLER]** Follow not after vanity, nor after the enjoyment of love and lust!
-  He who is earnest and meditative, obtains ample joy.
+**[MÜLLER]** Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.
 
-**[TIN]**
+**[TIN]** Therefore, one should not be negligent, nor be addicted to sensual pleasures; for he who is established in mindfulness, through cultivation of Tranquillity and Insight Development Practice, experiences supreme happiness (i.e., realizes Nibbana).
 
-**[THANISSARO]** Don't give way to heedlessness
-	or to intimacy
-	with sensual delight —
-for a heedful person,
-absorbed in jhana,
-attains an abundance of ease. 
+**[THANISSARO]** Don't give way to heedlessness //
+	or to intimacy //
+	with sensual delight — //
+for a heedful person, //
+absorbed in jhana, //
+attains an abundance of ease.
 
-### 28
+### 28 Mahakassapatthera Vatthu
 
-**[PALI]**
+**[PALI]** Pamadam appamadena //
+yada nudati pandito //
+pannapasadamaruyha //
+asoko sokinim pajam //
+pabbatatthova bhumatthe //
+dhiro1 bale avekkhati.
 
-**[MÜLLER]** When the learned man drives away vanity by earnestness, he, the
-  wise, climbing the terraced heights of wisdom, looks down upon the
-  fools, serene he looks upon the toiling crowd, as one that stands on a
-  mountain looks down upon them that stand upon the plain.
+**[MÜLLER]** When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.
 
-**[TIN]**
+**[TIN]** The wise one dispels negligence by means of mindfulness; he ascends the tower of wisdom and being free from sorrow looks at the sorrowing beings. Just as one on the mountain top looks at those on the plain below, so also, the wise one (the arahat) looks at the foolish and the ignorant (worldlings).
 
-**[THANISSARO]** When the wise person drives out
-	heedlessness
-	with heedfulness,
-having climbed the high tower
-of discernment,
-	sorrow-free,
-he observes the sorrowing crowd —
-as the enlightened man,
-having scaled
-	a summit,
+**[THANISSARO]** When the wise person drives out //
+	heedlessness //
+	with heedfulness, //
+having climbed the high tower //
+of discernment, //
+	sorrow-free, //
+he observes the sorrowing crowd — //
+as the enlightened man, //
+having scaled //
+	a summit, //
 the fools on the ground below.
 
 
-### 29
+### 29 Dvesahayakabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Appamatto pamattesu //
+suttesu bahujagaro //
+abalassa mva sighasso //
+hitva yati sumedhaso.
 
-**[MÜLLER]** Earnest among the thoughtless, awake among the sleepers, the wise
-  man advances like a racer, leaving behind the hack.
+**[MÜLLER]** Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.
 
-**[TIN]**
+**[TIN]** Mindful amongst the negligent, highly vigilant amongst the drowsy, the man of wisdom advances like a race-horse, leaving the jade behind.
 
-**[THANISSARO]** Heedful among the heedless,
-wakeful among those asleep,
-just as a fast horse advances,
-leaving the weak behind:
+**[THANISSARO]** Heedful among the heedless, //
+wakeful among those asleep, //
+just as a fast horse advances, //
+leaving the weak behind: //
 	so the wise.
 
-### 30
+### 30 Magha Vatthu
 
-**[PALI]**
+**[PALI]** Appamadena maghava //
+devanam setthatam gato //
+appamadam pasamanti //
+pamado garahito sada.
 
-**[MÜLLER]** By earnestness did Maghavan (Indra) rise to the lordship of the
-  gods. People praise earnestness; thoughtlessness is always blamed.
+**[MÜLLER]** By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.
 
-**[TIN]**
+**[TIN]** Through mindfulness (in doing meritorious deeds) Magha became king of the devas. Mindfulness is always praised, but negligence is always blamed.
 
-**[THANISSARO]** Through heedfulness, Indra won
-to lordship over the gods.
-Heedfulness is praised,
-heedlessness censured —
+**[THANISSARO]** Through heedfulness, Indra won //
+to lordship over the gods. //
+Heedfulness is praised, //
+heedlessness censured — //
 	always.
 
 
-### 31
+### 31 Annatarabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Appamadarato bhikkhu //
+pamade bhayadassi va //
+samyojanam anum thulam //
+daham aggiva gacchati.
 
-**[MÜLLER]** A Bhikshu (mendicant) who delights in earnestness, who looks with
-  fear on thoughtlessness, moves about like fire, burning all his fetters,
-  small or large.
+**[MÜLLER]** A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness, moves about like fire, burning all his fetters, small or large.
 
-**[TIN]**
+**[TIN]** A bhikkhu who takes delight in mindfulness and sees danger in negligence, advances like fire, burning up all fetters, great and small.
 
-**[THANISSARO]** The monk delighting in heedfulness,
-seeing danger in heedlessness,
-advances like a fire,
-burning fetters
+**[THANISSARO]** The monk delighting in heedfulness, //
+seeing danger in heedlessness, //
+advances like a fire, //
+burning fetters //
 	great & small.
 
-### 32
+### 32 Nigamavasitissatthera Vatthu
 
-**[PALI]**
+**[PALI]** Appamadarato bhikkhu //
+pamade bhayadassi va //
+abhabbo parihanaya //
+nibbanasseva santike.
 
-**[MÜLLER]** A Bhikshu (mendicant) who delights in reflection, who looks with
-  fear on thoughtlessness, cannot fall away (from his perfect state)--he
-  is close upon Nirvana.
+**[MÜLLER]** A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
 
-**[TIN]**
+**[TIN]** A bhikkhu who takes delight in mindfulness and sees danger in negligence will not fall away; he is, indeed, very close to Nibbana.
 
-**[THANISSARO]** The monk delighting in heedfulness,
-seeing danger in heedlessness
- — incapable of falling back —
-stands right on the verge
+**[THANISSARO]** The monk delighting in heedfulness, //
+seeing danger in heedlessness //
+ — incapable of falling back — //
+stands right on the verge //
 	of Unbinding.
-	
+
 ## <a name="c-03"></a>3. Thought
 
 [↩︎ Back to chapter index](#toc)
 
-### 33
+### 33 Meghiyatthera Vatthu
 
-**[PALI]**
+**[PALI]** Phandanam capalam cittam //
+durakkham1 dunnivarayam //
+ujum karoti medhavi //
+usukarova tejanam.
 
-**[MÜLLER]** As a fletcher makes straight his arrow, a wise man makes straight
-  his trembling and unsteady thought, which is difficult to guard,
-  difficult to hold back.
+**[MÜLLER]** As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.
 
-**[TIN]**
+**[TIN]** The mind is excitable and unsteady; it is difficult to control and to restrain. The wise one trains his mind to be upright as a fletcher straightens an arrow.
 
-**[THANISSARO]** Quivering, wavering,
-hard to guard,
-to hold in check:
-	the mind.
-The sage makes it straight —
-like a fletcher,
+**[THANISSARO]** Quivering, wavering, //
+hard to guard, //
+to hold in check: //
+	the mind. //
+The sage makes it straight — //
+like a fletcher, //
 the shaft of an arrow.
 
-### 34
+### 34 Meghiyatthera Vatthu
 
-**[PALI]**
+**[PALI]** Varijova thale khitto //
+okamokata ubbhato //
+pariphandatidam cittam //
+maradheyyam pahatave.
 
-**[MÜLLER]** As a fish taken from his watery home and thrown on dry ground, our
-  thought trembles all over in order to escape the dominion of Mara (the
-  tempter).
+**[MÜLLER]** As a fish taken from his watery home and thrown on dry ground, our thought trembles all over in order to escape the dominion of Mara (the tempter).
 
-**[TIN]**
+**[TIN]** As a fish quivers when taken out of its watery home and thrown on to dry ground, so does the mind quiver when it is taken out of the sensual world to escape from the realm of Mara (i.e., kilesa vatta, round of moral defilements).
 
-**[THANISSARO]** Like a fish
-pulled from its home in the water
-& thrown on land:
-this mind flips & flaps about
+**[THANISSARO]** Like a fish //
+pulled from its home in the water //
+& thrown on land: //
+this mind flips & flaps about //
 	to escape Mara's sway.
 
-### 35
+### 35 Annatarabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Dunniggahassa lahuno //
+yatthakamanipatino //
+cittassa damatho sadhu //
+cittam dantam sukhavaham
 
-**[MÜLLER]** It is good to tame the mind, which is difficult to hold in and
-  flighty, rushing wherever it listeth; a tamed mind brings happiness.
+**[MÜLLER]** It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness.
 
-**[TIN]**
+**[TIN]** The mind is difficult to control; swiftly and lightly, it moves and lands wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.
 
-**[THANISSARO]** Hard to hold down,
-	nimble,
-alighting wherever it likes:
-	the mind.
-Its taming is good.
-The mind well-tamed
+**[THANISSARO]** Hard to hold down, //
+	nimble, //
+alighting wherever it likes: //
+	the mind. //
+Its taming is good. //
+The mind well-tamed //
 	brings ease.
 
-### 36
+### 36 Ukkanthitabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Sududdasam sunipunam //
+yatthakamanipatinam //
+cittam rakketha medhavi //
+cittam guttam sukhavaham.
 
-**[MÜLLER]** Let the wise man guard his thoughts, for they are difficult to
-  perceive, very artful, and they rush wherever they list: thoughts well
-  guarded bring happiness.
+**[MÜLLER]** Let the wise man guard his thoughts, for they are difficult to perceive, very artful, and they rush wherever they list: thoughts well guarded bring happiness.
 
-**[TIN]**
+**[TIN]** The mind is very difficult to see, very delicate and subtle; it moves and lands wherever it pleases. The wise one should guard his mind, for a guarded mind brings happiness
 
-**[THANISSARO]** So hard to see,
-so very, very subtle,
-alighting wherever it likes:
-	the mind.
-The wise should guard it.
-The mind protected
+**[THANISSARO]** So hard to see, //
+so very, very subtle, //
+alighting wherever it likes: //
+	the mind. //
+The wise should guard it. //
+The mind protected //
 	brings ease.
 
-### 37
+### 37 Samgharakkhitatthera Vatthu
 
-**[PALI]**
+**[PALI]** Durangamam ekacaram //
+asariram guhasayam //
+ye cittam samyamissanti //
+mokkhanti marabandhana.
 
-**[MÜLLER]** Those who bridle their mind which travels far, moves about alone,
-  is without a body, and hides in the chamber (of the heart), will be free
-  from the bonds of Mara (the tempter).
+**[MÜLLER]** Those who bridle their mind which travels far, moves about alone, is without a body, and hides in the chamber (of the heart), will be free from the bonds of Mara (the tempter).
 
-**[TIN]**
+**[TIN]** The mind wanders far and moves about alone: it is non-material; it lies in the cave (chamber) of the heart. Those who control their mind will be free from the bonds of Mara.
 
-**[THANISSARO]** Wandering far,
-going alone,
-bodiless,
-lying in a cave:
-	the mind.
-Those who restrain it:
-	from Mara's bonds
+**[THANISSARO]** Wandering far, //
+going alone, //
+bodiless, //
+lying in a cave: //
+	the mind. //
+Those who restrain it: //
+	from Mara's bonds //
 	they'll be freed.
 
-### 38
+### 38 Cittahatthatthera Vatthu
 
-**[PALI]**
+**[PALI]** Anavatthitacittassa //
+saddhammam avijanato //
+pariplavapasadassa //
+panna na paripurati.
 
-**[MÜLLER]** If a man's thoughts are unsteady, if he does not know the true law,
-  if his peace of mind is troubled, his knowledge will never be perfect.
+**[MÜLLER]** If a man's thoughts are unsteady, if he does not know the true law, if his peace of mind is troubled, his knowledge will never be perfect.
 
-**[TIN]**
+**[TIN]** If a man's mind is unsteady, if he is ignorant of the true Dhamma, and if his faith is wavering, then his knowledge will never be perfect.
 
-**[THANISSARO]** For a person of unsteady mind,
-not knowing true Dhamma,
-	serenity
-	set        adrift:
+**[THANISSARO]** For a person of unsteady mind, //
+not knowing true Dhamma, //
+	serenity //
+	set        adrift: //
 discernment doesn't grow full.
 
-### 39
+### 39 Cittahatthatthera Vatthu
 
-**[PALI]**
+**[PALI]** Anavassutacittassa //
+ananvahatacetaso //
+punnapapapahinassa //
+natthi jagarato bhayam.
 
-**[MÜLLER]** If a man's thoughts are not dissipated, if his mind is not
-  perplexed, if he has ceased to think of good or evil, then there is no
-  fear for him while he is watchful.
+**[MÜLLER]** If a man's thoughts are not dissipated, if his mind is not perplexed, if he has ceased to think of good or evil, then there is no fear for him while he is watchful.
 
-**[TIN]**
+**[TIN]** If a man's mind is free from passion, if he is free from ill will, if he has abandoned both good and evil, and if he is vigilant, for such a man there is no danger.
 
-**[THANISSARO]** For a person of unsoddened mind,
-	       unassaulted
-awareness,
-abandoning merit & evil,
-	wakeful,
-there is no danger
+**[THANISSARO]** For a person of unsoddened mind, //
+	       unassaulted //
+awareness, //
+abandoning merit & evil, //
+	wakeful, //
+there is no danger //
 	   no fear.
 
-### 40
+### 40 Pancasatabhikkhu Vatthu
 
-**[PALI]**
+**[PALI]** Kumbhupamam kayamimam viditva //
+nagarupam cittamidam thapetva //
+yodhetha maram panna vudhena //
+jitanca rakkhe anivesano siya.
 
-**[MÜLLER]** Knowing that this body is (fragile) like a jar, and making this
-  thought firm like a fortress, one should attack Mara (the tempter) with
-  the weapon of knowledge, one should watch him when conquered, and should
-  never rest.
+**[MÜLLER]** Knowing that this body is (fragile) like a jar, and making this thought firm like a fortress, one should attack Mara (the tempter) with the weapon of knowledge, one should watch him when conquered, and should never rest.
 
-**[TIN]**
+**[TIN]** Knowing that this body is (fragile) like an earthern jar, making one's mind secure like a fortified town, one should fight Mara with the weapon of Knowledge. (After defeating Mara) one should still continue to guard one's mind, and feel no attachment to that which has been gained (i.e., jhana ecstasy and serenity gained through meditation).
 
-**[THANISSARO]** Knowing this body
-	is like a clay jar,
-securing this mind
-	like a fort,
-	   attack Mara
-	with the spear of discernment,
-then guard what's won
-	without settling there,
+**[THANISSARO]** Knowing this body //
+	is like a clay jar, //
+securing this mind //
+	like a fort, //
+	   attack Mara //
+	with the spear of discernment, //
+then guard what's won //
+	without settling there, //
 	without laying claim.
 
-### 41
+### 41 Putigattatissatthera Vatthu
 
-**[PALI]**
+**[PALI]** Aciram vata' yam kayo //
+pathavim adhisessati //
+chuddho apetavinnano //
+niratthamva kalingaram.
 
 **[MÜLLER]** Before long, alas! this body will lie on the earth, despised,
   without understanding, like a useless log.
 
-**[TIN]**
+**[TIN]** Before long, alas, this body, deprived of consciousness, will lie on the earth, discarded like a useless log.
 
-**[THANISSARO]** All too soon, this body
-will lie on the ground
-	cast off,
-bereft of consciousness,
-like a useless scrap
+**[THANISSARO]** All too soon, this body //
+will lie on the ground //
+	cast off, //
+bereft of consciousness, //
+like a useless scrap //
 	of wood.
 
-### 42
+### 42 Nandagopalaka Vatthu
 
-**[PALI]**
+**[PALI]** Diso disam yam tam kariya //
+veri va pana verinam //
+micchapanihitam cittam //
+papiyo nam tato kare.
 
 **[MÜLLER]** Whatever a hater may do to a hater, or an enemy to an enemy, a
   wrongly-directed mind will do us greater mischief.
 
-**[TIN]**
+**[TIN]** A thief may harm a thief; an enemy may harm an enemy; but a wrongly directed mind can do oneself far greater harm.
 
-**[THANISSARO]** Whatever an enemy might do
-to an enemy,
-or a foe to a foe,
-the ill-directed mind
-can do to you
+**[THANISSARO]** Whatever an enemy might do //
+to an enemy, //
+or a foe to a foe, //
+the ill-directed mind //
+can do to you //
 	even worse.
 
-### 43
+### 43 Soreyya Vatthu
 
-**[PALI]**
+**[PALI]** Na tam mata pita kayira //
+anne vapi ca nataka //
+sammapanihitam cittam //
+seyyaso1naim tato kare.
 
 **[MÜLLER]** Not a mother, not a father will do so much, nor any other relative;
   a well-directed mind will do us greater service.
 
-**[TIN]**
+**[TIN]** Not a mother, nor a father, nor any other relative can do more for the well-being of one than a rightly-directed mind can.
 
-**[THANISSARO]** Whatever a mother, father
-or other kinsman
-might do for you,
-the well-directed mind
-can do for you
+**[THANISSARO]** Whatever a mother, father //
+or other kinsman //
+might do for you, //
+the well-directed mind //
+can do for you //
 	even better.
 
 ## <a name="c-04"></a> 4. Flowers
