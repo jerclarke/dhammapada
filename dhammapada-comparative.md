@@ -24,7 +24,7 @@ Jer Clarke
 
 ---
 
-# The Dhammapada
+# <a name="toc"></a> The Dhammapada
 
 **Note on chapters:** **[TIN]** simply uses the Pali chapter headings, while **[MÜLLER]** and **[THANISSARO]** translate them into english.
 
@@ -59,10 +59,8 @@ Jer Clarke
 | [26](#c-26) (383-423) | Brahmanavagga   | The Brahmana (Arhat)      | Brahmans     | TBD
 
 
-## <a name="c-01"></a> 1. Yamakavagga
-* **[MÜLLER]** The Twin-Verses
-* **[TIN]** Yamakavagga
-* **[THANISSARO]** Pairs
+## <a name="c-01"></a> 1. Yamakavagga - Pairs
+↩︎ Back to chapter index](#toc)
 
 ### 1 Cakkhupalatthera Vatthu
 
@@ -493,7 +491,7 @@ he has his share in the contemplative life.
 **[JER]** One who can recite few teachings, but follows the Dhamma -- letting go of passion, aversion and delusion, with a mind free of clinging to this world or the next -- shares in the benefits of monastic life.
 
 ## <a name="c-02"></a> 2. On Earnestness
- * **[THANISSARO]** Heedfulness
+↩︎ Back to chapter index](#toc)
 
 ### 21 Samavati Vatthu
 
@@ -656,6 +654,7 @@ living the Dhamma: //
   is close upon Nirvana.
 
 ## <a name="c-03"></a>3. Thought
+↩︎ Back to chapter index](#toc)
 
 **[TIN]**
 
@@ -786,6 +785,7 @@ living the Dhamma: //
   a well-directed mind will do us greater service.
 
 ## <a name="c-04"></a> 4. Flowers
+↩︎ Back to chapter index](#toc)
 
 **[TIN]**
 
@@ -957,7 +957,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-05"></a> 5. The Fool
-
+↩︎ Back to chapter index](#toc)
 
 ### 60
 
@@ -1144,6 +1144,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-06"></a> 6. The Wise Man (Pandita)
+↩︎ Back to chapter index](#toc)
 
 ### 76
 
@@ -1294,6 +1295,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-07"></a> 7. The Venerable (Arhat).
+↩︎ Back to chapter index](#toc)
 
 ### 90
 
@@ -1413,6 +1415,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-08"></a> 8. The Thousands
+↩︎ Back to chapter index](#toc)
 
 ### 100
 
@@ -1582,6 +1585,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-09"></a> 9. Evil
+↩︎ Back to chapter index](#toc)
 
 ### 116
 
@@ -1727,6 +1731,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-10"></a> 10. Punishment
+↩︎ Back to chapter index](#toc)
 
 ### 129
 
@@ -1922,6 +1927,7 @@ living the Dhamma: //
 **[THANISSARO]**
 
 ## <a name="c-11"></a> 11. Old Age
+↩︎ Back to chapter index](#toc)
 
 ### 146
 
@@ -2059,6 +2065,7 @@ has attained to the end of craving.
 **[THANISSARO]**
 
 ## <a name="c-12"></a> 12. Self
+↩︎ Back to chapter index](#toc)
 
 ### 157
 
@@ -2176,6 +2183,7 @@ has attained to the end of craving.
 **[THANISSARO]**
 
 ## <a name="c-13"></a> 13. The World
+↩︎ Back to chapter index](#toc)
 
 ### 167
 
@@ -2326,6 +2334,7 @@ in this world & the next.
 **[THANISSARO]**
 
 ## <a name="c-14"></a> 14. The Buddha (The Awakened)
+↩︎ Back to chapter index](#toc)
 
 ### 179
 
@@ -2523,6 +2532,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-15"></a> 15. Happiness
+↩︎ Back to chapter index](#toc)
 
 ### 197
 
@@ -2661,6 +2671,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-16"></a> 16. Pleasure
+↩︎ Back to chapter index](#toc)
 
 ### 209
 
@@ -2799,6 +2810,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-17"></a> 17. Anger
+↩︎ Back to chapter index](#toc)
 
 ### 221
 
@@ -2941,6 +2953,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-18"></a> 18. Impurity
+↩︎ Back to chapter index](#toc)
 
 ### 235
 
@@ -3189,6 +3202,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-19"></a> 19. The Just
+↩︎ Back to chapter index](#toc)
 
 **256 257** A man is not just if he carries a matter by violence; no, he
   who distinguishes both right and wrong, who is learned and leads others,
@@ -3331,6 +3345,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-20"></a> 20. The Way
+↩︎ Back to chapter index](#toc)
 
 ### 273
 
@@ -3530,6 +3545,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-21"></a> 21. Miscellaneous
+↩︎ Back to chapter index](#toc)
 
 ### 290
 
@@ -3716,6 +3732,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-22"></a> 22. The Downward Course
+↩︎ Back to chapter index](#toc)
 
 ### 306
 
@@ -3885,6 +3902,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-23"></a> 23. The Elephant
+↩︎ Back to chapter index](#toc)
 
 ### 320
 
@@ -4052,6 +4070,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-24"></a> 24. Thirst
+↩︎ Back to chapter index](#toc)
 
 ### 334
 
@@ -4364,6 +4383,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-25"></a> 25. The Bhikshu (Mendicant)
+↩︎ Back to chapter index](#toc)
 
 ### 360
 
@@ -4631,6 +4651,7 @@ the cleansing   of one's own mind: //
 **[THANISSARO]**
 
 ## <a name="c-26"></a> 26. The Brahmana (Arhat)
+↩︎ Back to chapter index](#toc)
 
 ### 383
 
